@@ -1,7 +1,6 @@
 # Überarbeitung & Lektorat
 
 ---
-
 ## Der erste Entwurf ist roh — und das ist gut so
 
 Lass den ersten Entwurf kühl werden: **mindestens 2–4 Wochen** nicht anschauen. Dann mit frischen Augen lesen.
@@ -12,7 +11,6 @@ Ziel des ersten Entwurfs: **Existenz**, nicht Qualität. Erst schreiben, dann ve
 > — Ernest Hemingway (zugeschrieben)
 
 ---
-
 ## Mehrere Überarbeitungsphasen
 
 Bearbeite das Manuskript in *getrennten Durchgängen*, je nach Ebene:
@@ -27,7 +25,6 @@ Bearbeite das Manuskript in *getrennten Durchgängen*, je nach Ebene:
 **Quelle:** Diese Struktur findet sich u.a. bei James Scott Bell, *Revision and Self-Editing for Publication* (2008).
 
 ---
-
 ## Selbstlektorat-Tipps
 
 - **Laut vorlesen** — Ohren hören Stolperstellen, die Augen überlesen.
@@ -37,7 +34,15 @@ Bearbeite das Manuskript in *getrennten Durchgängen*, je nach Ebene:
 - **Kill Your Darlings** (King/Faulkner): Streiche Passagen, die du liebst, aber die die Geschichte nicht voranbringen.
 
 ---
+## Eine Korrektur darf keinen neuen Fehler einbauen
 
+Wenn ein Wort wegen einer Stilregel getauscht wird (Wiederholung, Filterwort, Adverb, Tempus), reicht es nicht, *irgendein* Ersatzwort einzusetzen. Drei Prüfungen am neuen Satz, bevor die Korrektur steht:
+
+- **Semantisch tragfähig.** Hält das Bild noch? „Schatten älter aussehen lassen" kippt, weil Schatten kein wahrnehmbares Alter haben. Wenn der Ersatz das Bild bricht, ist er falsch — egal wie er die Wiederholung löst.
+- **Grammatikalisch verträglich.** Numerus, Genus, Kasus, Tempus müssen zum neuen Bezugswort passen. Ein Begriff aus einer früheren Fassung bringt seine alte Form mit (Singular „jeden Schatten" passt nicht zu Plural „als sie waren").
+- **Den richtigen Pol ersetzen.** Bei Wortwiederholung ist der Reflex, das *erste*, prominentere Vorkommen zu tauschen. Oft ist die unauffälligere Lösung, das *zweite* stehen zu lassen und das erste umzubauen — oder umgekehrt. Beide Richtungen prüfen, die mit weniger Kollateralschaden gewinnt.
+
+---
 ## Szenenliste-Diagnose
 
 Vor dem ersten Lektorat eine Tabelle aller Szenen führen — Spalten: Szenennummer, POV, Ziel der Figur, Konflikt, Ergebnis, Funktion im Plot.
@@ -49,7 +54,6 @@ Faustregel: Eine Szene ohne Konflikt oder ohne Ergebnis ist keine Szene, sondern
 Die Methode ist die wirksamste Makro-Lektorat-Diagnose und kostet einen halben Tag pro Manuskript.
 
 ---
-
 ## Sandersons Draft-System
 
 Alternative zur phasen-orientierten Tabelle: Pro Durchgang ein definiertes Ziel, nicht eine Granularität.
@@ -70,7 +74,6 @@ Sandersons System ergänzt die phasen-orientierte Tabelle, ersetzt sie nicht. Ph
 *Quelle: Brandon Sanderson, Writing Lectures #11 (brandonsanderson.com)*
 
 ---
-
 ## Continuity-Check
 
 Eigener Durchgang vor der Korrektur. Augenfarben, Namen, Verwandtschaftsverhältnisse, Verletzungen, Zeitlinien, Wochentage, Wetter, Kleidung über Szenen hinweg.
@@ -82,7 +85,6 @@ Häufigste Fehler im Erstentwurf: eine Verletzung in Szene 12, die in Szene 14 v
 Beta-Leser entdecken solche Fehler oft, aber sie kosten Vertrauen. Besser vorher abräumen.
 
 ---
-
 ## Sensitivity Reading
 
 Bei historisch, kulturell oder erfahrungsmäßig heiklem Stoff: Lektüre durch eine Person, die der dargestellten Gruppe oder Erfahrung nahesteht. Nicht als Zensur-Instanz, sondern als Korrektiv für blinde Flecken.
@@ -94,7 +96,6 @@ Sensitivity Reading ersetzt keine Recherche. Es prüft, ob die Recherche in Pros
 Der Sensitivity Reader bewertet, der Autor entscheidet. Nicht jede Anmerkung muss übernommen werden. Wiederkehrende Hinweise sollten ernstgenommen werden.
 
 ---
-
 ## Digitale Hilfsmittel
 
 - **Duden-Mentor / LanguageTool** — Rechtschreibung und Stil (Deutsch)
@@ -104,7 +105,6 @@ Der Sensitivity Reader bewertet, der Autor entscheidet. Nicht jede Anmerkung mus
 - **ProWritingAid** — Stilanalyse
 
 ---
-
 ## Feedback einholen
 
 1. **Beta-Leser** — Erste Leser aus der Zielgruppe, die ehrliches inhaltliches Feedback geben.

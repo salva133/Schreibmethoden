@@ -46,7 +46,7 @@ Diese Regeln zielen auf Text, der nicht nach KI klingt. Sie sind keine Geschmack
 
 **Klassischer deutscher Satzbau.** Verb an zweiter Stelle im Hauptsatz, Nebensätze mit Verbendstellung. Keine Anglizismen in der Syntax (kein „Er ist der Meinung, dass dies wichtig ist zu beachten"). Inversionen sparsam und bewusst einsetzen, nicht als Stilmittel-Reflex.
 
-**Wortwiederholungen vermeiden.** Dasselbe Wort darf nicht in unmittelbarer Nähe mehrfach auftauchen. Zuerst Synonym suchen. Ist keines möglich, Satz kürzen oder umbauen. Gegenbeispiel: „Der Mad Cat reagierte als Letzter. Er reagierte sofort, als er reagierte." → Entweder: „Der Mad Cat reagierte als Letzter — und dann mit voller Wucht." Oder kürzen: „Der Mad Cat war der Letzte, der handelte."
+**Wortwiederholungen vermeiden.** Dasselbe Wort darf nicht in unmittelbarer Nähe mehrfach auftauchen. Zuerst Synonym suchen. Ist keines möglich, Satz kürzen oder umbauen. Gegenbeispiel: „Der Mad Cat reagierte als Letzter. Er reagierte sofort, als er reagierte." → Entweder: „Der Mad Cat reagierte als Letzter — und dann mit voller Wucht." Oder kürzen: „Der Mad Cat war der Letzte, der handelte." -> siehe auch [[Ueberarbeitung]]
 
 ---
 
@@ -65,6 +65,24 @@ Reibung zulassen. Spitze Beobachtungen, klare Urteile, eine erkennbare Haltung. 
 Variation in Satzlänge und Struktur. Lange erklärende Sätze neben kurzen. Hauptsätze neben verschachtelten. Kein gleichförmiger Rhythmus.
 
 Im Zweifel: weglassen. Kürzere Texte sind fast immer besser als längere. Wenn ein Satz nichts hinzufügt, raus damit.
+
+---
+
+## Geschichte statt Chronik
+
+Erzählprosa unterscheidet sich von einer Chronik darin, dass sie Szenen ausstellt, statt Ereignisse zu protokollieren. Eine Chronik referiert, was passiert ist; eine Geschichte lässt es passieren. Der schnellste Hebel dafür ist Dialog.
+
+**Dialog großzügig einsetzen.** Wenn zwei Figuren Information austauschen, Konflikt austragen oder eine Entscheidung treffen, gehört das in direkte Rede. „Liliana erzählte vom Angriff" ist Chronik. Die Schwester, die mit zitternder Stimme erst stockend, dann immer schneller die Park-Szene schildert, ist Geschichte. Indirekte Rede ist legitim, wenn sie Tempo macht oder Routinen rafft — die Hauptmomente einer Szene gehören als direkter Wortwechsel auf die Seite.
+
+**Szene vor Zusammenfassung.** Was dramatisch, kennzeichnend oder emotional aufgeladen ist, wird szenisch ausgespielt, mit Handlung, Wahrnehmung und Sprechen im Wechsel. Was nur Übergang ist, darf gerafft werden — „In den Tagen danach verstand sie nichts" fasst drei Tage in einen Halbsatz, das Begreifen an der Fleischtheke wird dann wieder szenisch.
+
+**Action Beats statt Sprecher-Tags mit Adverb.** Statt „sagte sie nervös" eine kleine Handlung, die das Nervöse zeigt: „Sie drehte den Beutel zwischen den Fingern. ‚Es geht ihr nicht gut.'" Action Beats geben dem Dialog Raum, Tempo und Verortung und ersetzen Adverb-Floskeln am Sprecher-Tag.
+
+**Stimmen unterscheiden.** Jede Figur spricht anders — Wortwahl, Satzbau, Lautstärke, Dialektfärbung. Wenn alle Figuren wie der Erzähler klingen, ist es Chronik, nicht Dialog. Wer Glasgow 1986 schreibt, darf (sparsam) schottisches Sprachgut, Soldatensprache, Klerikersprache je nach Figur einsetzen, solange die Verständlichkeit für den deutschen Leser gewahrt bleibt.
+
+**Erzähler tritt zurück.** Was eine Figur sehen, sagen oder tun kann, übernimmt der Erzähler nicht. „Alastair erklärte ihr, dass die Maskerade gefährdet sei" ist Chronik; ein Satz Alastairs, der die Maskerade-Sorge im O-Ton ausspricht, ist Geschichte.
+
+**Test.** Wenn ein Absatz zentrale Information durch indirekte Rede oder durch Erzähler-Bericht vermittelt, prüfen, ob dieselbe Information besser in einem kurzen Wortwechsel zwischen den Figuren landen würde. Im Zweifel: szenisch und mit Dialog.
 
 ---
 
