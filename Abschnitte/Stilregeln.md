@@ -36,6 +36,8 @@ Diese Regeln zielen auf Text, der nicht nach KI klingt. Sie sind keine Geschmack
 
 **Filterwörter raus.** „Sah", „hörte", „bemerkte", „dachte", „fühlte", „spürte" schaffen eine Schicht zwischen Leser und Wahrnehmung. Statt „Er sah, wie sie ging" → „Sie ging". Statt „Sie spürte die Kälte" → „Die Kälte kroch durch ihren Mantel". Filterwörter sind nur dann nötig, wenn die Wahrnehmung selbst zur Handlung gehört — etwa wenn jemand einen anderen beobachtet, der nicht zurückblickt.
 
+**Kein Selbstporträt der Fokusfigur.** In personaler Perspektive beschreibt der Erzähler nicht die eigene Erscheinung der Fokusfigur von außen, als stünde sie vor einem Spiegel. „Seine bernsteinfarbenen Augen blieben auf der Mauer" oder „das Licht fiel auf seine blauen Schuppen" sind Distanzmarker; die Figur sieht ihre eigene Augenfarbe nicht. Erscheinungsdetails gehören dorthin, wo eine andere Figur sie wahrnimmt, oder werden als gefühlte Wirkung gezeigt: statt „seine blauen Schuppen" lieber „das graue Land nahm selbst seinen Schuppen die Farbe".
+
 **Schwächungs-Verben.** „Begann zu", „versuchte zu", „schien zu", „wollte gerade" sind in den meisten Fällen streichbar. „Er begann zu lachen" → „Er lachte". Wenn das Wort wirklich einen Anlauf oder ein Scheitern markiert, behalten. Sonst weg.
 
 **Redundante Verstärker.** „Sehr", „eigentlich", „irgendwie", „ein wenig", „durchaus", „relativ", „ziemlich". Diese Wörter schwächen, statt zu verstärken. Wenn ein Satz „sehr" braucht, ist das Adjektiv falsch gewählt. „Sehr müde" gehört ersetzt durch „erschöpft".
@@ -101,6 +103,42 @@ Die Verkürzungs-Verbote dieser Datei — Filterwörter, Adverbien, Schwächungs
 **Variation, nicht Verkürzung.** Die positive Vorgabe „Variation in Satzlänge" weiter oben ist hier verbindlich. Mindestens ein Verhältnis von etwa 1:2 zwischen kurzen (unter zehn Wörtern) und langen Sätzen (über fünfzehn Wörtern) pro Absatz. Reine Kurzsatz-Absätze sind Telegramm; reine Langsatz-Absätze sind Geschwurbel. Beides falsch.
 
 **Test: laut lesen.** Wenn du nach jedem Punkt absetzen musst, ohne dass das gewollt ist, fehlt eine Konjunktion oder ein Nebensatz. Wenn du beim Vorlesen ins Stocken kommst, weil der Satz zu lang ist, fehlt ein Punkt. Der laute Lese-Test ist der schnellste Diagnose-Schritt.
+
+---
+
+## Perspektivtreue und Wahrnehmung
+
+In personaler Perspektive ist die Wahrnehmung der Fokusfigur der einzige Kanal zum Leser. Daraus folgt mehr als nur der Verzicht auf Filterwörter.
+
+**Verankere in den Sinnen der Figur, und zwar in ihren.** Was und wie eine Figur wahrnimmt, hängt von ihrer Art, ihrem Körper, ihrer Herkunft ab. Ein Echsenwesen schmeckt die Luft mit der Zunge, statt bloß zu riechen. Ein Kaltblüter erlebt Kälte als Trägheit, die in die Glieder kriecht, nicht als Temperaturangabe. Ein Sternendeuter „liest die abgewandten Gesichter, wie ein Astronom Wolken liest". Ein zweihundertjähriger Schwertmeister mustert einen Fremden „wie eine Klinge, deren Schliff er noch nicht kennt". Dieselbe Szene durch eine andere Figur ist eine andere Szene.
+
+**Dramatische Ironie durch Fehldeutung.** Eine begrenzte oder fremde Perspektive darf die Lage falsch deuten; der Leser sieht, was die Figur nicht sieht. Der Skink-Priester staunt über die „glänzenden Steine" und hält das Geld für das Fremde, während der ganze Schankraum vor ihm zurückweicht. Die Figur muss nicht verstehen, was der Leser versteht. Das erzeugt Spannung und Charakter in einem.
+
+**Spiegelung über den Perspektivwechsel.** Nehmen zwei Figuren einander wahr, dürfen ihre Eindrücke einander bewusst echoen. Der Vampir liest den Priester als „weder lebendig noch tot, aber hell"; der Priester liest später den Vampir als „einen Toten, der hell brennt". Das Echo bindet beide Hälften einer Szene, ohne es auszusprechen.
+
+Tiefer zu psychischer Distanz, Slipping POV und Fokalisierung: [[Schreibtechniken]].
+
+---
+
+## Dialog mit Tiefe
+
+Der Abschnitt „Geschichte statt Chronik" verlangt Dialog. Damit Dialog nicht bloß Information schiebt, gelten zusätzlich vier Regeln.
+
+**Jede Replik trägt Neues.** Keine Figur sagt zweimal dasselbe in anderen Worten. Hat ein Charakter sein Leitmotiv ausgesprochen, etwa den Glauben an einen vorbestimmten Plan, bringt die nächste Replik eine Drehung: Er deutet den Gegenüber ins Muster, statt das Credo zu wiederholen.
+
+**Reibung statt Glätte.** Entscheidungen, Angebote und Bündnisse fallen nicht reibungslos zu. Ein Pakt, der einfach „vorgeschlagen und angenommen" wird, ist Chronik. Lass ihn aus Charakter entspringen, aus Eigennutz, Neugier, Wiedererkennen oder Misstrauen, und benenne den Preis: „Mein Schwert gegen die Ratten, und meine Neugier für das, was du suchst."
+
+**Ein Satz darf charakterisieren, nicht nur sprechen.** Der stärkste Dialogsatz sagt zweierlei auf einmal, die Sache und die Figur. „Mein Wort hält, Priester. Es ist beinah das Einzige, was mir geblieben ist" beantwortet das Bündnis und legt zugleich den Eidbrecher offen.
+
+**Idiolekt ist Pflicht.** Jede Figur trägt ein erkennbares Sprachmuster durch alle Kapitel: der altmodische, bedachte Satzbau des einen; die abgehackte, artikellose Rede in dritter Person des anderen. Prüfe die Stimmen über Kapitelgrenzen hinweg auf Konstanz. Vgl. „Stimmen unterscheiden" oben und [[Charaktere]].
+
+---
+
+## Welt, die antwortet
+
+**Reaktionen zeigen, nicht behaupten.** „Die Leute waren misstrauisch" ist Behauptung. Die Hand, die unter den Tresen zum Knüppel gleitet; das Kind, das hinter den Rock gezogen wird; das Zeichen gegen den bösen Blick; der Stalljunge, der das tote Pferd nicht anrührt: Das ist die Reaktion. Konkrete Handlung statt Zustandsbericht.
+
+**Die Welt reagiert stimmig mit Setting und Lore.** Was fremd, unheimlich oder verboten ist, ruft die Reaktion hervor, die dieses Setting vorsieht: abergläubische Furcht, Anrufung der örtlichen Götter, Abstand, nicht freundliche Gleichgültigkeit. Ein untotes Schlachtross in einer Stadt der Lebenden bleibt nicht unbemerkt. Bei jeder Begegnung lautet die Frage: Wie reagiert dieser Ort, dieses Volk, diese Zeit wirklich auf so jemanden? Die Antwort gehört in die Szene. Welt- und systemspezifische Konsequenzen regeln die jeweiligen Projektregeln.
 
 ---
 
