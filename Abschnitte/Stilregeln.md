@@ -132,6 +132,8 @@ Der Abschnitt „Geschichte statt Chronik" verlangt Dialog. Damit Dialog nicht b
 
 **Idiolekt ist Pflicht.** Jede Figur trägt ein erkennbares Sprachmuster durch alle Kapitel: der altmodische, bedachte Satzbau des einen; die abgehackte, artikellose Rede in dritter Person des anderen. Prüfe die Stimmen über Kapitelgrenzen hinweg auf Konstanz. Vgl. „Stimmen unterscheiden" oben und [[Charaktere]].
 
+**Sprache nach Alter, Herkunft und Zeit kalibrieren.** Eine Figur redet nicht so, wie es schön klingt, sondern so, wie jemand ihres Alters, ihrer Bildung, ihrer Herkunft und ihrer Epoche redet. Eine vierundzwanzigjährige Studentin im Glasgow von 1986 spricht knapp, modern, im Zweifel stockend, und greift zu den Wörtern ihrer Generation; Bilder, Kenningar und archaischer Satzbau gehören einer alten Seherin oder einer Figur, die bewusst so angelegt ist. Wer eine Figur literarisch oder altertümlich reden lässt, ohne dass Alter, Beruf und Zeit es decken, verrät sie an die Erzählerstimme, und der schärfste Kontrast einer Geschichte — die nüchterne Junge neben der bardischen Alten — geht verloren. Prüfe bei jeder Replik: Würde dieser Mensch, in diesem Jahr, an diesem Ort, mit dieser Schulbildung, diesen Satz so sagen? Dialekt und Soziolekt gehören dosiert dazu (vgl. „Stimmen unterscheiden"), aber der erste Hebel ist die Kalibrierung auf Alter, Herkunft, Zeit und Gemütslage.
+
 ---
 
 ## Welt, die antwortet
