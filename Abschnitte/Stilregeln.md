@@ -144,6 +144,39 @@ Der Abschnitt „Geschichte statt Chronik" verlangt Dialog. Damit Dialog nicht b
 
 ---
 
+## Nüchternheit — gegen die geschwollene Variante
+
+Die Verbote oben treffen die platte KI-Prosa. Es gibt eine zweite Sorte, die das Gegenteil zu sein scheint und denselben Fehler macht: zu viel Handwerk, sichtbar aufgetragen. Sie klingt „literarisch" und ist genau deshalb falsch. Gegen sie gelten folgende Regeln.
+
+**Keine Aphorismen-Kette.** Figuren reden nicht in geschliffenen Sinnsprüchen. Eine schlichte Aussage schlägt jede Maxime. Auch eine alte, kühle Figur spricht nicht wie ein Kalenderblatt.
+
+- Schlecht: „Ein Förster baut dem Wolf kein Lager neben das Reh und heißt sich seinen Hüter."
+- Besser: „Das ist kein Schutz. Das ist das Gegenteil."
+
+**Höchstens ein Bild pro Szene, und ein einfaches.** Metaphern nicht stapeln. Wenn in einem kurzen Abschnitt Genick, Wolf, Bilanz und ein wandernder Lichtkreis stehen, ist es zu viel. Ein Bild nur an einem echten Höhepunkt, sonst Klartext. Vgl. „Stilmittel zeigen sich" in [[Schreibtechniken]].
+
+**Keine sichtbaren Konstruktions-Tricks.** Rahmungen, Symmetrien und Klammern, die der Leser arbeiten sieht, fliegen raus. Einen Gegenstand am Anfang weglegen und am Ende wieder aufnehmen, damit es „rahmt", ist so ein Trick. Man spürt ihn.
+
+**Kein Deko-Erzähltext.** Atmosphäre, die nichts trägt, streichen. Ein konkreter, schlichter Sinneseindruck reicht.
+
+- Schlecht: „…der Bach, den kein Plan zu fassen bekam."
+- Besser: „Unter dem Boden lief der Bach weiter."
+
+**Nicht jeder Satz muss „gut" sein.** Wenn jeder Satz eine gedrechselte Pointe ist, klingt das Ganze gleichförmig poliert, und diese Gleichförmigkeit ist selbst der KI-Verdacht. Flache, sachliche Sätze sind nötig; sie geben den wenigen starken Momenten Raum.
+
+**Keine Autor-Kommentare im Erzähltext.** Sätze, die dem Leser sagen, dass etwas wirkt oder wahr ist, sind aufgesetzt.
+
+- Schlecht: „Es saß, weil es wahr war."
+- Besser: „Er hatte recht." — oder weg, wenn die Szene es schon zeigt.
+
+**Figurenrede: Funktion vor Eleganz.** Jede Replik erfüllt eine schlichte Aufgabe — warnen, entscheiden, fragen. Sie führt keine Weisheit vor. Eigenart entsteht durch einfache Wortwahl und durch das, was eine Figur weglässt.
+
+**Klartext statt Jargon.** Keine Business- oder Abstrakt-Wörter wie „Linie", „Schiene", „Vektor", „Setup". Das Gemeinte einfach sagen. Gilt auch außerhalb der Prosa, in Notizen und Kommentaren.
+
+**Sag es gleich richtig.** Nicht erst verklausuliert schreiben und dann erklären. Die klare Fassung ist die einzige. Kein „X hieß: Y" — nur Y.
+
+---
+
 ## Selbstprüfung vor dem Abschicken
 
 Lies den Text einmal durch und frage dich: Klingt das nach jemandem, der etwas zu sagen hat, oder nach einem System, das einen Text produziert? Wenn Letzteres, neu schreiben.
