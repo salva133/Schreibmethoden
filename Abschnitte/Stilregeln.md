@@ -177,6 +177,33 @@ Die Verbote oben treffen die platte KI-Prosa. Es gibt eine zweite Sorte, die das
 
 ---
 
+## Dialog: gesprochen, nicht vorgetragen
+
+Eine eigene Falle, eng verwandt mit der geschwollenen Variante: Figurenrede, die wie eine Rede am Pult klingt statt wie geredete Sprache. Sie ist ausbalanciert, zitierfähig, jeder Satz eine fertige Pointe — und weil alle Figuren so reden, haben sie am Ende keine eigene Stimme mehr.
+
+**Keine Dreiklänge in der Rede.** Niemand zählt im Gespräch drei parallele Glieder auf.
+
+- Schlecht: „Ich trage den Antrag, ich lege die Fälle daneben, ich stehe dafür, dass es sauber ist."
+- Besser: „Ich gehe zum Fürsten. Mit den Fällen, die Lucius hat."
+
+**Keine ausbalancierten Antithesen.** Kein „Bis heute X, danach Y", kein „geduldet, nicht anerkannt". Gesprochene Sprache wiegt nicht ab.
+
+**Keine Aphorismen und keine metaphorischen Definitionen.** Eine Figur sagt nicht „Es ist eine Tür". Sie sagt, was sie meint.
+
+**Keine rhetorische Frage mit selbst gelieferter Antwort.** „Wissen Sie, was das wert wäre? Macht, die nicht widerspricht." Das ist Debatte, kein Reden.
+
+**Nicht jeder Satz eine Pointe.** Echte Rede stockt, setzt neu an, wiederholt sich, sagt Belangloses, bricht ab. Füllsel, Selbstkorrektur und halbe Gedanken gehören dazu. Lückenlose Effizienz ist selbst das Künstliche.
+
+**Den Namen nicht als Taktschlag streuen.** Die Anrede nur dort, wo sie etwas tut — Aufmerksamkeit holen, schärfen, Distanz setzen.
+
+**Keine Bilanz-Reden.** Eine Figur fasst nicht den ganzen Sachverhalt ausgewogen zusammen. Wenn der Leser etwas wissen muss, kommt es schief, stückweise, im Streit, nicht als Vortrag. Sonst wird die Figur zum Erklär-Werkzeug des Autors.
+
+**Idiolekt heißt anderer Takt, nicht anderes Kostüm.** Wenn zwei Figuren beide in Dreiklängen und Antithesen reden, unterscheiden sie sich nicht, auch mit verschiedenen Vokabeln nicht. Jede Figur braucht einen eigenen Satz-Rhythmus.
+
+**Test.** Würde ein Mensch das so am Küchentisch sagen, oder klingt es nach Bühne? Klingt es nach Bühne, umschreiben.
+
+---
+
 ## Selbstprüfung vor dem Abschicken
 
 Lies den Text einmal durch und frage dich: Klingt das nach jemandem, der etwas zu sagen hat, oder nach einem System, das einen Text produziert? Wenn Letzteres, neu schreiben.
