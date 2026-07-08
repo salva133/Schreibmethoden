@@ -14,7 +14,7 @@ Diese Regeln zielen auf Text, der nicht nach KI klingt. Sie sind keine Geschmack
 
 **Keine Hedging-Floskeln.** Streiche: „Es ist wichtig zu beachten, dass", „Man sollte erwähnen, dass", „Letzten Endes", „Am Ende des Tages", „Es bleibt festzuhalten". Wenn etwas wichtig ist, schreib es einfach hin.
 
-**Verbotene Lieblingsvokabeln.** Vermeide: *beleuchten, facettenreich, vielschichtig, unterstreichen, im Spannungsfeld, Tapestry, navigieren* (im übertragenen Sinn), *robust* (außerhalb technischer Kontexte), *pivotal, delve, leverage*. Diese Wörter sind Marker für KI-Prosa.
+**Verbotene Lieblingsvokabeln.** Vermeide: *beleuchten, facettenreich, vielschichtig, unterstreichen, im Spannungsfeld, Tapestry, navigieren* (im übertragenen Sinn), *robust* (außerhalb technischer Kontexte), *pivotal, delve, leverage*. Ebenso die Aufwertungs- und Hochglanzvokabeln, die in KI-Texten seit 2023 messbar häufiger wurden: *nahtlos, entscheidend/zentral* (als bloße Bedeutungssteigerung), *ein (wahres) Zeugnis für, unterstreicht die Bedeutung, spielt eine (zentrale/wichtige) Rolle, atemberaubend, malerisch, pulsierend, reiches Erbe / reiche Kultur, im Bereich (von), wenn es um … geht, letzten Endes*. Diese Wörter sind Marker für KI-Prosa.
 
 **Keine Sandwich-Struktur.** Nicht erst ankündigen, was kommt, dann sagen, dann zusammenfassen, was gesagt wurde. Steig direkt ein, hör auf, wenn du fertig bist.
 
@@ -174,6 +174,30 @@ Die Verbote oben treffen die platte KI-Prosa. Es gibt eine zweite Sorte, die das
 **Klartext statt Jargon.** Keine Business- oder Abstrakt-Wörter wie „Linie", „Schiene", „Vektor", „Setup". Das Gemeinte einfach sagen. Gilt auch außerhalb der Prosa, in Notizen und Kommentaren.
 
 **Sag es gleich richtig.** Nicht erst verklausuliert schreiben und dann erklären. Die klare Fassung ist die einzige. Kein „X hieß: Y" — nur Y.
+
+---
+
+## Weitere KI-Signale (aus Feldbeobachtung)
+
+Ergänzung zu „Verbotene Muster". Diese Marker stammen aus Redaktions- und Detektions-Leitfäden zu maschineller Prosa und sind auf deutsche Erzählprosa übertragen. Einzeln sind sie oft harmlos; gehäuft erzeugen sie den maschinellen Klang.
+
+**Bedeutungs-Aufblähung (Puffery).** Der Text spricht einem Gegenstand oder Moment von außen Größe zu, statt sie zu zeigen: „ein Zeugnis für", „spielt eine zentrale Rolle", „unterstreicht die Bedeutung", „sollte alles verändern". In der Erzählprosa ist das der Erzähler, der ein Ereignis vorab wichtig erklärt („Es war ein Augenblick, der sich einbrennen würde"). Zeig das Gewicht in der Szene und im Detail; behaupte es nicht.
+
+**Hochglanz- und Werbewörter.** „Atemberaubend", „malerisch", „pulsierend", „reiches Erbe" sind Wertungen ohne Anschauung. Ersetze sie durch einen konkreten Sinneseindruck, an dem der Leser die Wertung selbst zieht.
+
+**Vage Zuschreibung.** „Man sagt", „viele glauben", „es ist bekannt, dass", „Studien zeigen" — wer genau? Wenn niemand Bestimmtes dahintersteht, streichen. In der Prosa gehört solches Wissen in eine Figur, die es sagt oder denkt, nicht in eine anonyme Erzähler-Instanz.
+
+**Partizip- und Anhängsel-Schwänze.** Das KI-Muster „Hauptsatz, dann angehängtes Partizip mit Deutung": „Er trat vor, wohl wissend, dass …", „…, ein stiller Beweis dafür, dass …", „…, was das Ganze umso schwerer machte", „…, was er nie zugegeben hätte". Diese Schwänze tun Tiefe kund, statt sie zu erzeugen. Mach daraus einen eigenen Satz oder streiche ihn. (Verwandt mit den Filterwörtern und der Über-Erklärung oben.)
+
+**Übergangswort-Häufung.** „Zudem", „Darüber hinaus", „Folglich", „Somit", „Letztlich", „Dabei" sind einzeln legitim, gehäuft der Takt eines Aufsatz-Automaten. In Erzählprosa fast immer streichbar: Die Reihenfolge der Sätze trägt den Zusammenhang schon. (Nicht zu verwechseln mit den bindenden Konjunktionen aus „Atem und Rhythmus" — „und", „aber", „während", „als" binden Bewegung, „Darüber hinaus" verwaltet nur.)
+
+**Behauptung, dann sofort Erklärung.** Der Dauertakt „Aussage. Und das lag daran, dass …" / „X. Denn Y." Nicht jeder Satz braucht seine nachgeschobene Begründung. Setz die Aussage hin und lass sie stehen, oder zeig den Grund als Handlung. Wenn jeder Beat sich selbst erklärt, entsteht die gleichförmige, brave Textur, an der man die Maschine erkennt.
+
+**Titel- und Slogan-Formeln.** „Von X zu Y", „Meistere X in Y Schritten", „Entfessle/Elevate/Unlock". Gehört in Werbung, nicht in Prosa und nicht in nüchterne Sachtexte.
+
+**Gleichförmigkeit auch auf Absatzebene.** Die Variations-Regel aus „Atem und Rhythmus" gilt nicht nur für Sätze. Wenn jeder Absatz drei bis vier Sätze hat und jeder Abschnitt gleich gebaut ist — Aufschlag, Ausführung, kleine Pointe —, entsteht dieselbe maschinelle Ebenmäßigkeit wie bei gleich langen Sätzen. Setz einen Einzeiler neben einen langen Block. Du besitzt die Struktur; das Muster besitzt dich nicht.
+
+> Quellen (übertragen und eingedeutscht): Wikipedia, „Signs of AI writing"; Redaktions- und Detektions-Leitfäden zu KI-Prosa (u. a. GPTZero zur „rule of three", Analysen zur Partizip-/„-ing"-Häufung). Zugriff Juli 2026.
 
 ---
 
