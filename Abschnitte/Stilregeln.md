@@ -4,6 +4,16 @@ Diese Regeln zielen auf Text, der nicht nach KI klingt. Sie sind keine Geschmack
 
 ---
 
+## Ersatzlos streichen
+
+Was gegen eine Regel dieser Datei verstößt, wird gestrichen und nicht ersetzt. Kein Umbau, der denselben Takt in erlaubten Wörtern wiederholt, keine abgeschwächte Fassung an derselben Stelle. Der Absatz ist danach kürzer. Das ist das Ergebnis.
+
+Der Umbau ist die häufigere Reaktion und die falsche. Wer „Es war eine Nummer, die niemand zählte" durch „Die Nummer stand ungezählt in der Liste" ersetzt, hat die Regel gelesen und den Satz behalten. Die Stelle wollte einen bedeutsamen Schlusston; den gibt die Szene her oder nicht, und ein Ersatzsatz beschafft ihn nie.
+
+Fehlt nach dem Streichen wirklich eine Information, gehört sie in einen eigenen, sachlichen Satz, der den Ton der gestrichenen Zeile nicht mitnimmt.
+
+---
+
 ## Verbotene Muster
 
 **Keine „Nicht nur X, sondern Y"-Konstruktionen** — und verwandte Formen wie **„Nicht X. Nicht Y, sondern Z"** eingeschlossen. Diese antithetischen Schablonen sind verboten. Wenn ein Gegensatz wirklich besteht, formuliere ihn anders. Wenn keiner besteht, lass es weg.
