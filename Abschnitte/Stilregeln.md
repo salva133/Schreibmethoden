@@ -199,7 +199,7 @@ Die Muster in diesem Abschnitt haben eines gemeinsam: Sie liefern ein Urteil ode
 
 **Kein ominöser Nachsatz.** „Noch." „Vorerst." „Bis dahin." Ein angehängtes Wort, das ein künftiges Unglück andeutet, ohne eines zu benennen. Derselbe leere Griff in die andere Zeitrichtung, und obendrein ein verbrauchter Einwortsatz (vgl. „Einwortsätze sind Pointen, keine Bausteine" oben).
 
-**Test.** Streich den Satz und lies den Absatz noch einmal. Fehlt danach eine Information, war er nötig; klingt der Absatz nur nüchterner, war er Dekoration. Sprich ihn dann laut aus, so wie du ihn jemandem am Tisch sagen würdest. Was dabei nach Übersetzung klingt, ist eine.
+**Test.** Streich den Satz und lies den Absatz noch einmal. Fehlt danach eine Information, war er nötig; klingt der Absatz nur nüchterner, war er Dekoration. Sprich ihn dann laut aus, so wie du ihn jemandem am Tisch sagen würdest.
 
 ---
 
