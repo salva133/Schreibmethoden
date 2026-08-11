@@ -4,6 +4,16 @@ Diese Regeln zielen auf Text, der nicht nach KI klingt. Sie sind keine Geschmack
 
 ---
 
+## Ersatzlos streichen
+
+Was gegen eine Regel dieser Datei verstößt, wird gestrichen und nicht ersetzt. Kein Umbau, der denselben Takt in erlaubten Wörtern wiederholt, keine abgeschwächte Fassung an derselben Stelle. Der Absatz ist danach kürzer. Das ist das Ergebnis.
+
+Der Umbau ist die häufigere Reaktion und die falsche. Wer „Es war eine Nummer, die niemand zählte" durch „Die Nummer stand ungezählt in der Liste" ersetzt, hat die Regel gelesen und den Satz behalten. Die Stelle wollte einen bedeutsamen Schlusston; den gibt die Szene her oder nicht, und ein Ersatzsatz beschafft ihn nie.
+
+Fehlt nach dem Streichen wirklich eine Information, gehört sie in einen eigenen, sachlichen Satz, der den Ton der gestrichenen Zeile nicht mitnimmt.
+
+---
+
 ## Verbotene Muster
 
 **Keine „Nicht nur X, sondern Y"-Konstruktionen** — und verwandte Formen wie **„Nicht X. Nicht Y, sondern Z"** eingeschlossen. Diese antithetischen Schablonen sind verboten. Wenn ein Gegensatz wirklich besteht, formuliere ihn anders. Wenn keiner besteht, lass es weg.
@@ -174,6 +184,22 @@ Die Verbote oben treffen die platte KI-Prosa. Es gibt eine zweite Sorte, die das
 **Klartext statt Jargon.** Keine Business- oder Abstrakt-Wörter wie „Linie", „Schiene", „Vektor", „Setup". Das Gemeinte einfach sagen. Gilt auch außerhalb der Prosa, in Notizen und Kommentaren.
 
 **Sag es gleich richtig.** Nicht erst verklausuliert schreiben und dann erklären. Die klare Fassung ist die einzige. Kein „X hieß: Y" — nur Y.
+
+---
+
+## Sätze, die im Deutschen niemand bildet
+
+Die Muster in diesem Abschnitt haben eines gemeinsam: Sie liefern ein Urteil oder eine Stimmung als Bild, statt die Sache hinzuschreiben, und im gesprochenen Deutsch kommt keines von ihnen vor. Mehrere lesen sich Wort für Wort aus dem Englischen übernommen. Sie stehen fast immer an den Stellen, die wirken sollen, am Absatzende und am Szenenschluss.
+
+**Nicht-Ereignisse.** „Es war eine Nummer, die niemand zählte." „Keiner sah hin." „Niemand sagte etwas dazu." „In keinem Bericht stand davon ein Wort." „Ohne dass es jemand bemerkte, war es vorbei." Der Satz holt sein Gewicht daraus, dass er den Zeugen wegnimmt: Weil keiner hinsah, muss es wichtig gewesen sein. Nachprüfen lässt sich daran nichts, denn ein Vorgang, den keiner wahrnimmt, hinterlässt in der Erzählung keine Spur. Schreib hin, was jemand tut, sieht oder sagt. Findet sich dafür keiner, ist an der Stelle nichts, und sie kann weg. (Gegenstück zur „Vagen Zuschreibung" unten: die erfindet einen Beobachter, den es nicht gibt, dieser Satz schafft den ab, den es gäbe.)
+
+**Kein Trag-Urteil.** „Das Modell trägt." „Der Entwurf hält." Das ist englisches *it holds*, *it carries* mit deutschen Wörtern. Ein Damm hält, ein Seil hält, ein Balken trägt ein Dach: Das sind Dinge, die Last aufnehmen, und bei ihnen ist der Satz vollständig. Ein Modell, ein Entwurf, ein Argument oder eine Erzählung nimmt keine Last auf, das Bild ist dort geborgt und trifft nichts. Sag stattdessen das Urteil. Das Modell bewährt sich. Der Entwurf stimmt. Die Rechnung geht auf.
+
+**Kein Konzessiv-Echo.** „Es war ein Faden, der hielt. Er war dünner, aber er hielt." Behauptung, Einschränkung, dieselbe Behauptung noch einmal. Das klingt nach einem erkämpften Ergebnis und ist eine zweite Runde derselben Aussage. Einmal genügt: „Der Faden hielt." Ist das Dünnerwerden wichtig, dann ist es ein eigener Vorgang und gehört gezeigt, mit dem, der daran zog, und dem, woran man es sah.
+
+**Kein ominöser Nachsatz.** „Noch." „Vorerst." „Bis dahin." Ein angehängtes Wort, das ein künftiges Unglück andeutet, ohne eines zu benennen. Derselbe leere Griff in die andere Zeitrichtung, und obendrein ein verbrauchter Einwortsatz (vgl. „Einwortsätze sind Pointen, keine Bausteine" oben).
+
+**Test.** Streich den Satz und lies den Absatz noch einmal. Fehlt danach eine Information, war er nötig; klingt der Absatz nur nüchterner, war er Dekoration. Sprich ihn dann laut aus, so wie du ihn jemandem am Tisch sagen würdest.
 
 ---
 
