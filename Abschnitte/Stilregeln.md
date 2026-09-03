@@ -254,6 +254,50 @@ Eine eigene Falle, eng verwandt mit der geschwollenen Variante: Figurenrede, die
 
 ---
 
+## Autorenstimme — Stilprofil aus eigenen Texten
+
+Die Verbote dieser Datei sagen, was nicht in den Text gehört. Dieser Abschnitt sagt, wie der Text klingt, wenn er nach dem Autor klingt. Er ist aus eigenen Textproben abgeleitet und wird mit jeder weiteren Probe fortgeschrieben. Bei Konflikt gilt: Verbotsliste vor Stilprofil. Das Profil füllt den Raum, den die Verbote lassen.
+
+Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 2026). Es deckt das Register Weltenbau und Backstory ab. Dialog und szenische Prosa sind daraus nicht belegt und folgen mit weiteren Proben.
+
+**Zwei Sprachschichten, ohne Übergang gemischt.** Idiomatisches, leicht altmodisches Deutsch steht neben englischem Genre- und Technikjargon, und keines wird dem anderen angepasst. „Den Winden und der Witterung trotzend", „Glücksritter", „aller Couleur", „zu Klump geschossen" auf der einen Seite; „Run", „Headcanon", „Grey Goo", „Callback Ping", „Trait" auf der anderen. Englische Fachwörter bleiben englisch, wenn sie im Genre oder im Spiel die eingeführten Begriffe sind. Keine Zwangs-Eindeutschung („Rückruf-Signal"), keine Anführungszeichen, keine Erklärung. Die Reibung zwischen den Schichten ist gewollt.
+
+**Drastik in Alltagswörtern.** Das Große wird mit dem kleinsten verfügbaren Wort gesagt. „Eine unbekannte andere Fraktion hat den Planeten orbital zu Klump geschossen" erledigt einen Weltuntergang in einem Nebensatz und in Küchendeutsch. Kein Hochglanz an der Stelle, an der ein KI-Text „verheerend", „apokalyptisch" oder „atemberaubend" setzen würde. Je größer das Ereignis, desto derber und knapper das Wort.
+
+**Erfundene Fachsprache aus bekannten Bausteinen.** Technik wird nicht erklärt, sondern in Komposita behauptet, die der Leser ohne Glossar versteht, weil er beide Hälften kennt: „zellularmechanische Reassembler", „biologische Komplementärneuronen", „persistente Speicher der Zellen". Das Muster kreuzt Biologie mit Rechnertechnik. Dosis: ein bis zwei solcher Begriffe pro Absatz, jeder nur einmal. Wer den Begriff danach erklärt, hat ihn verspielt.
+
+**Lücken offen ausstellen.** Was nicht festgelegt ist, steht als nicht festgelegt im Text, statt kaschiert zu werden: „Wieso die Welt so ist, lasse ich offen." „Eine unbekannte andere Fraktion", „die namenlose Ebene", „[REDACTED]". Das Namenlose heißt namenlos. Das erspart Pseudo-Lore, die nur Löcher stopft, und lässt Raum für den späteren Spielverlauf. In szenischer Prosa entspricht dem die Figur, die etwas nicht weiß und es sagt.
+
+**Meta-Rahmen und Erzählung nebeneinander.** Der Autor spricht als Spieler und als Erzähler im selben Absatz und markiert den Wechsel nicht. „In meinem Headcanon war die Welt … überrannt worden" (Spieler), „Lange, so lange, jahrhundertelang … irrten Fragmente" (Erzähler), „Anbei die Gene. Ihr Trait ist Vengeful." (Spieler). Der Sprung gehört zum Exposé und zur Spielnotiz. In fertiger Prosa hat der Spieler-Satz nichts zu suchen.
+
+**Der kurze Nachsatz nach dem langen Satz, oft mit „Und" oder „Dann" am Anfang.** „…, um das sich anbahnende Grey Goo Szenario einzudämmen. Und sie hätten fast Erfolg gehabt." Der lange Satz baut, der kurze kippt. „Und" und „Dann" am Satzanfang sind Teil der Stimme, kein Fehler. Der Nachsatz trägt eine Wendung, kein Echo (vgl. „Kein Konzessiv-Echo" oben). Er wiederholt nicht, er dreht.
+
+**Nachbessern im Satz.** Präzisierung wird nachgeschoben wie beim Sprechen, statt den Satz vorher fertig zu denken: „ein einziges Signal, nur einen Ping", „des ersten, des neuen Verstandes", „Genauer gesagt auf der namenlosen Ebene zwischen …". Die erste Fassung bleibt stehen, die zweite korrigiert sie. Das erzeugt den Ton eines Erzählers, der am Tisch sitzt.
+
+**Dehnung durch Wiederaufnahme.** Dauer wird durch Wiederholung gedehnt, nicht durch Zahlwörter: „Lange, so lange, jahrhundertelang, ohne eine Energiequelle, irrten …". Die Glieder werden länger, das Verb kommt spät. Einmal pro Text, an der Stelle, an der die Dauer selbst der Inhalt ist.
+
+**Reihung durch Wiederaufnahme, nicht durch Rhetorik.** „Es gibt Fraktionen, die …, es gibt Fraktionen, die …, es gibt Weltraumpiraten aller Couleur und Glücksritter, die …". Die Glieder sind ungleich lang, das letzte am längsten und mit Nachtrag. Das ist Reden, nicht Rede. Erlaubt, solange die Zahl der Glieder aus dem Stoff kommt und die Glieder ungleich bleiben (vgl. „Keine zwanghaften Dreierlisten"). Sobald sie sich im Takt gleichen, ist es die verbotene Schablone.
+
+**Zahlen und Karte statt Stimmung.** Der Zustand der Welt steht als Zahl und Ortsangabe da: „80 % des Planeten", „ein paar tausend Zellen", „zwischen den Robil Hills im Osten und der Aninor Range im Westen. Nordöstlich davon erhebt sich Mount Barrobrí". Himmelsrichtungen, Eigennamen, Größenordnungen. Die Verortung ersetzt die Atmosphäre-Beschreibung; der Leser baut sich das Bild aus der Karte.
+
+**Zoom ohne Überschrift.** Die Kamera fährt vom Planeten über die Ebene auf die Figur und dann wieder hinaus. Das Exposé beginnt weit („eine vergiftete Welt"), landet auf einer Person („Es erhebt sich Juniper Breeze, genannt June") und endet wieder weit („Der Planet ist dünn besiedelt"). Der Wechsel geschieht an einem kurzen Satz („Hier beginnt unsere Geschichte"), nie an einer Zwischenüberschrift.
+
+**Unbelebtes handelt.** Kollektive und Dinge bekommen Verben von Wesen: Fragmente „irren", Zellen „finden sich zusammen", „rufen" und „vernehmen", der Ping „brennt sich ein", Cluster „trotzen" der Witterung. Das ersetzt den Erklär-Satz darüber, was technisch geschieht, durch einen Vorgang, den man sieht.
+
+**Tempus trägt die Zeitsprünge.** Plusquamperfekt für die Vorgeschichte („war überrannt worden"), Präteritum für die Jahrhunderte („irrten", „fanden sich"), Präsens ab dem Moment, an dem die Geschichte beginnt („Und heute …", „erhebt sich"). Kein „Jahre später", keine Zwischenüberschrift. Das Tempus macht den Schnitt.
+
+**Ein Pathos-Moment, genau einer.** Das einzige Ausrufezeichen und das einzige große Bild stehen am Wendepunkt zwischen Rückblick und Gegenwart: „Und heute ist die Zeit der Wiederauferstehung der Duplicatoren endlich gekommen!", „erhebt sich … aus den Aschen dieser Welt". Davor und danach ist der Text nüchtern. Der Ausbruch wirkt, weil er allein steht (vgl. „Höchstens ein Bild pro Szene"). Ein zweites Ausrufezeichen im selben Text entwertet beide.
+
+**Elliptische Nachsätze zur Vorstellung.** Figur und Fakten kommen verblos, wie Karteikarten: „Ein Duplicator mit dem Körper einer 18-Jährigen." „Anbei die Gene." „ohne Erfolg". Zwei bis drei solcher Sätze hintereinander sind Stimme; ein ganzer Absatz davon wäre Telegramm (vgl. „Atem und Rhythmus").
+
+**Schluss ohne Ausklang.** Der Text endet mit der letzten Sachinformation („…, die Artefakte in den Ruinen suchen."). Kein Fazit, keine Stimmungszeile, kein Cliffhanger-Satz. Deckt sich mit „Keine Floskel-Schlüsse" und ist beim Autor Instinkt, keine Regelbefolgung.
+
+**Nicht Stil, sondern Tipptempo.** Kleingeschriebene Substantive („energiequelle", „fraktionen"), Mischformen wie „Duplicatoren" neben „Duplicators", „coleur" statt „Couleur" sind Flüchtigkeit und werden im Lektorat vereinheitlicht. Wer die Stimme übernimmt, übernimmt das nicht mit.
+
+**Test.** Nimm einen Absatz und frage: Steht ein derbes Alltagswort an der größten Stelle? Steht mindestens ein Fachbegriff unübersetzt und unerklärt? Gibt es einen kurzen Nachsatz, der dreht? Ist eine Lücke offen benannt statt zugekleistert? Wenn alles Nein, klingt der Absatz nicht nach dem Autor.
+
+---
+
 ## Selbstprüfung vor dem Abschicken
 
 Lies den Text einmal durch und frage dich: Klingt das nach jemandem, der etwas zu sagen hat, oder nach einem System, das einen Text produziert? Wenn Letzteres, neu schreiben.
