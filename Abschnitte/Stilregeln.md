@@ -266,7 +266,7 @@ Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 202
 
 **Lücken offen ausstellen.** Was nicht festgelegt ist, steht als nicht festgelegt im Text, statt kaschiert zu werden: „Wieso die Welt so ist, lasse ich offen." „Eine unbekannte andere Fraktion", „die namenlose Ebene", „[REDACTED]". Das Namenlose heißt namenlos. Das erspart Pseudo-Lore, die nur Löcher stopft, und lässt Raum für den späteren Spielverlauf. In szenischer Prosa entspricht dem die Figur, die etwas nicht weiß und es sagt.
 
-**Meta-Rahmen und Erzählung nebeneinander.** Der Autor spricht als Spieler und als Erzähler im selben Absatz und markiert den Wechsel nicht. „In meinem Headcanon war die Welt … überrannt worden" (Spieler), „Lange, so lange, jahrhundertelang … irrten Fragmente" (Erzähler), „Anbei die Gene. Ihr Trait ist Vengeful." (Spieler). Der Sprung gehört zum Exposé und zur Spielnotiz. In fertiger Prosa hat der Spieler-Satz nichts zu suchen.
+**Meta-Rahmen und Erzählung nebeneinander.** Der Autor spricht als Spieler und als Erzähler im selben Absatz und markiert den Wechsel nicht. „Meine Backgroundstory für diesen Run ist:" und „In meinem Headcanon war die Welt … überrannt worden" (Spieler), „Lange, so lange, jahrhundertelang … irrten Fragmente" (Erzähler). Der Sprung gehört zum Exposé und zur Spielnotiz. In fertiger Prosa hat der Spieler-Satz nichts zu suchen.
 
 **Der kurze Nachsatz nach dem langen Satz, oft mit „Und" oder „Dann" am Anfang.** „…, um das sich anbahnende Grey Goo Szenario einzudämmen. Und sie hätten fast Erfolg gehabt." Der lange Satz baut, der kurze kippt. „Und" und „Dann" am Satzanfang sind Teil der Stimme, kein Fehler. Der Nachsatz trägt eine Wendung, kein Echo (vgl. „Kein Konzessiv-Echo" oben). Er wiederholt nicht, er dreht.
 
@@ -285,8 +285,6 @@ Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 202
 **Tempus trägt die Zeitsprünge.** Plusquamperfekt für die Vorgeschichte („war überrannt worden"), Präteritum für die Jahrhunderte („irrten", „fanden sich"), Präsens ab dem Moment, an dem die Geschichte beginnt („Und heute …", „erhebt sich"). Kein „Jahre später", keine Zwischenüberschrift. Das Tempus macht den Schnitt.
 
 **Ein Pathos-Moment, genau einer.** Das einzige Ausrufezeichen und das einzige große Bild stehen am Wendepunkt zwischen Rückblick und Gegenwart: „Und heute ist die Zeit der Wiederauferstehung der Duplicatoren endlich gekommen!", „erhebt sich … aus den Aschen dieser Welt". Davor und danach ist der Text nüchtern. Der Ausbruch wirkt, weil er allein steht (vgl. „Höchstens ein Bild pro Szene"). Ein zweites Ausrufezeichen im selben Text entwertet beide.
-
-**Elliptische Nachsätze zur Vorstellung.** Figur und Fakten kommen verblos, wie Karteikarten: „Ein Duplicator mit dem Körper einer 18-Jährigen." „Anbei die Gene." „ohne Erfolg". Zwei bis drei solcher Sätze hintereinander sind Stimme; ein ganzer Absatz davon wäre Telegramm (vgl. „Atem und Rhythmus").
 
 **Schluss ohne Ausklang.** Der Text endet mit der letzten Sachinformation („…, die Artefakte in den Ruinen suchen."). Kein Fazit, keine Stimmungszeile, kein Cliffhanger-Satz. Deckt sich mit „Keine Floskel-Schlüsse" und ist beim Autor Instinkt, keine Regelbefolgung.
 
