@@ -258,11 +258,9 @@ Eine eigene Falle, eng verwandt mit der geschwollenen Variante: Figurenrede, die
 
 Die Verbote dieser Datei sagen, was nicht in den Text gehört. Dieser Abschnitt sagt, wie der Text klingt, wenn er nach dem Autor klingt. Er ist aus eigenen Textproben abgeleitet und wird mit jeder weiteren Probe fortgeschrieben. Bei Konflikt gilt: Verbotsliste vor Stilprofil. Das Profil füllt den Raum, den die Verbote lassen.
 
-Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 2026). Es deckt das Register Weltenbau und Backstory ab. Dialog und szenische Prosa sind daraus nicht belegt und folgen mit weiteren Proben.
+Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 2026). Es war nicht als Stilvorlage geschrieben; einzelne Formulierungen darin sind Einzelfall und keine Norm. Es deckt das Register Weltenbau und Backstory ab. Dialog und szenische Prosa sind daraus nicht belegt und folgen mit weiteren Proben.
 
-**Zwei Sprachschichten, ohne Übergang gemischt.** Idiomatisches, leicht altmodisches Deutsch steht neben englischem Genre- und Technikjargon, und keines wird dem anderen angepasst. „Den Winden und der Witterung trotzend", „Glücksritter", „aller Couleur", „zu Klump geschossen" auf der einen Seite; „Run", „Headcanon", „Grey Goo", „Callback Ping", „Trait" auf der anderen. Englische Fachwörter bleiben englisch, wenn sie im Genre oder im Spiel die eingeführten Begriffe sind. Keine Zwangs-Eindeutschung („Rückruf-Signal"), keine Anführungszeichen, keine Erklärung. Die Reibung zwischen den Schichten ist gewollt.
-
-**Drastik in Alltagswörtern.** Das Große wird mit dem kleinsten verfügbaren Wort gesagt. „Eine unbekannte andere Fraktion hat den Planeten orbital zu Klump geschossen" erledigt einen Weltuntergang in einem Nebensatz und in Küchendeutsch. Kein Hochglanz an der Stelle, an der ein KI-Text „verheerend", „apokalyptisch" oder „atemberaubend" setzen würde. Je größer das Ereignis, desto derber und knapper das Wort.
+**Zwei Sprachschichten, ohne Übergang gemischt.** Idiomatisches, leicht altmodisches Deutsch steht neben englischem Genre- und Technikjargon, und keines wird dem anderen angepasst. „Den Winden und der Witterung trotzend", „Glücksritter", „aller Couleur" auf der einen Seite; „Run", „Headcanon", „Grey Goo", „Callback Ping", „Trait" auf der anderen. Englische Fachwörter bleiben englisch, wenn sie im Genre oder im Spiel die eingeführten Begriffe sind. Keine Zwangs-Eindeutschung („Rückruf-Signal"), keine Anführungszeichen, keine Erklärung. Die Reibung zwischen den Schichten ist gewollt.
 
 **Erfundene Fachsprache aus bekannten Bausteinen.** Technik wird nicht erklärt, sondern in Komposita behauptet, die der Leser ohne Glossar versteht, weil er beide Hälften kennt: „zellularmechanische Reassembler", „biologische Komplementärneuronen", „persistente Speicher der Zellen". Das Muster kreuzt Biologie mit Rechnertechnik. Dosis: ein bis zwei solcher Begriffe pro Absatz, jeder nur einmal. Wer den Begriff danach erklärt, hat ihn verspielt.
 
@@ -274,7 +272,7 @@ Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 202
 
 **Nachbessern im Satz.** Präzisierung wird nachgeschoben wie beim Sprechen, statt den Satz vorher fertig zu denken: „ein einziges Signal, nur einen Ping", „des ersten, des neuen Verstandes", „Genauer gesagt auf der namenlosen Ebene zwischen …". Die erste Fassung bleibt stehen, die zweite korrigiert sie. Das erzeugt den Ton eines Erzählers, der am Tisch sitzt.
 
-**Dehnung durch Wiederaufnahme.** Dauer wird durch Wiederholung gedehnt, nicht durch Zahlwörter: „Lange, so lange, jahrhundertelang, ohne eine Energiequelle, irrten …". Die Glieder werden länger, das Verb kommt spät. Einmal pro Text, an der Stelle, an der die Dauer selbst der Inhalt ist.
+**Sehnen sickert in den Bericht.** Für einen Moment schildert nicht der Autor, sondern einer der Betroffenen: „Lange, so lange, jahrhundertelang, ohne eine Energiequelle, irrten …". Die Wiederholung ist kein Dehnungsmittel des Erzählers, sondern ein verwehter Duplicator-Verstand, der das Geschehen wiedergibt und dabei kurz sein Sehnen einfließen lässt. Dass es ein biomechanischer Organismus ist, hindert das nicht; es macht den Riss in der Sachlichkeit erst hörbar. Die Regel: Ein Halbsatz, in dem die Stimme des Erlebenden den Bericht färbt, dann zurück in den nüchternen Ton. Kein Innenleben-Absatz, keine Erklärung, wer da spricht.
 
 **Reihung durch Wiederaufnahme, nicht durch Rhetorik.** „Es gibt Fraktionen, die …, es gibt Fraktionen, die …, es gibt Weltraumpiraten aller Couleur und Glücksritter, die …". Die Glieder sind ungleich lang, das letzte am längsten und mit Nachtrag. Das ist Reden, nicht Rede. Erlaubt, solange die Zahl der Glieder aus dem Stoff kommt und die Glieder ungleich bleiben (vgl. „Keine zwanghaften Dreierlisten"). Sobald sie sich im Takt gleichen, ist es die verbotene Schablone.
 
@@ -294,7 +292,7 @@ Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 202
 
 **Nicht Stil, sondern Tipptempo.** Kleingeschriebene Substantive („energiequelle", „fraktionen"), Mischformen wie „Duplicatoren" neben „Duplicators", „coleur" statt „Couleur" sind Flüchtigkeit und werden im Lektorat vereinheitlicht. Wer die Stimme übernimmt, übernimmt das nicht mit.
 
-**Test.** Nimm einen Absatz und frage: Steht ein derbes Alltagswort an der größten Stelle? Steht mindestens ein Fachbegriff unübersetzt und unerklärt? Gibt es einen kurzen Nachsatz, der dreht? Ist eine Lücke offen benannt statt zugekleistert? Wenn alles Nein, klingt der Absatz nicht nach dem Autor.
+**Test.** Nimm einen Absatz und frage: Steht mindestens ein Fachbegriff unübersetzt und unerklärt? Gibt es einen kurzen Nachsatz, der dreht? Ist eine Lücke offen benannt statt zugekleistert? Färbt an einer Stelle die Stimme eines Betroffenen den Bericht, ohne dass es erklärt wird? Wenn alles Nein, klingt der Absatz nicht nach dem Autor.
 
 ---
 
