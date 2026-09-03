@@ -260,6 +260,8 @@ Die Verbote dieser Datei sagen, was nicht in den Text gehört. Dieser Abschnitt 
 
 Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 2026). Es war nicht als Stilvorlage geschrieben; einzelne Formulierungen darin sind Einzelfall und keine Norm. Es deckt das Register Weltenbau und Backstory ab. Dialog und szenische Prosa sind daraus nicht belegt und folgen mit weiteren Proben.
 
+**Grundprinzip: geschrieben wie gesprochen.** Der Autor kommt vom Sprechen und schreibt Texte so, wie er sie vortragen würde. Das ist der Ursprung der meisten Merkmale unten: der Satz, der sich beim Reden nachbessert, die Reihung durch Wiederaufnahme, der kurze Nachsatz, der eine Wendung setzt, der Halbsatz, in dem kurz ein anderer spricht. Maßstab ist deshalb nicht das Schriftbild, sondern der Vortrag: Ein Satz, den man so nicht sagen würde, wird umgebaut, auch wenn er auf dem Papier korrekt ist. Der laute Lese-Test aus „Atem und Rhythmus" ist für diese Stimme keine Diagnose, sondern die Entstehungsweise. Grenze: Gesprochen heißt nicht geschwätzig. Was beim Vortrag Füllsel wäre („sozusagen", „quasi", „irgendwie"), gehört auch hier nicht hinein (vgl. „Redundante Verstärker").
+
 **Zwei Sprachschichten, ohne Übergang gemischt.** Idiomatisches, leicht altmodisches Deutsch steht neben englischem Genre- und Technikjargon, und keines wird dem anderen angepasst. „Den Winden und der Witterung trotzend", „Glücksritter", „aller Couleur" auf der einen Seite; „Grey Goo", „Callback Ping", „Cluster", „Ping" auf der anderen. Englische Fachwörter bleiben englisch, wenn sie im Genre oder im Spiel die eingeführten Begriffe sind. Keine Zwangs-Eindeutschung („Rückruf-Signal"), keine Anführungszeichen, keine Erklärung. Die Reibung zwischen den Schichten ist gewollt.
 
 **Erfundene Fachsprache aus bekannten Bausteinen.** Technik wird nicht erklärt, sondern in Komposita behauptet, die der Leser ohne Glossar versteht, weil er beide Hälften kennt: „zellularmechanische Reassembler", „biologische Komplementärneuronen", „persistente Speicher der Zellen". Das Muster kreuzt Biologie mit Rechnertechnik. Dosis: ein bis zwei solcher Begriffe pro Absatz, jeder nur einmal. Wer den Begriff danach erklärt, hat ihn verspielt.
@@ -288,7 +290,7 @@ Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 202
 
 **Nicht Stil, sondern Tipptempo.** Kleingeschriebene Substantive („energiequelle", „fraktionen"), Mischformen wie „Duplicatoren" neben „Duplicators", „coleur" statt „Couleur" sind Flüchtigkeit und werden im Lektorat vereinheitlicht. Wer die Stimme übernimmt, übernimmt das nicht mit.
 
-**Test.** Nimm einen Absatz und frage: Steht mindestens ein Fachbegriff unübersetzt und unerklärt? Gibt es einen kurzen Nachsatz, der dreht? Ist eine Lücke offen benannt statt zugekleistert? Färbt an einer Stelle die Stimme eines Betroffenen den Bericht, ohne dass es erklärt wird? Wenn alles Nein, klingt der Absatz nicht nach dem Autor.
+**Test.** Sprich den Absatz laut, als würdest du ihn jemandem vortragen. Wo du stockst oder etwas anders sagen würdest, ist die Schriftfassung falsch. Dann frage: Steht mindestens ein Fachbegriff unübersetzt und unerklärt? Gibt es einen kurzen Nachsatz, der dreht? Ist eine Lücke offen benannt statt zugekleistert? Färbt an einer Stelle die Stimme eines Betroffenen den Bericht, ohne dass es erklärt wird? Wenn alles Nein, klingt der Absatz nicht nach dem Autor.
 
 ---
 
