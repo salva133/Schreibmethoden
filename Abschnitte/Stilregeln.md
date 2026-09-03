@@ -254,6 +254,46 @@ Eine eigene Falle, eng verwandt mit der geschwollenen Variante: Figurenrede, die
 
 ---
 
+## Autorenstimme — Stilprofil aus eigenen Texten
+
+Die Verbote dieser Datei sagen, was nicht in den Text gehört. Dieser Abschnitt sagt, wie der Text klingt, wenn er nach dem Autor klingt. Er ist aus eigenen Textproben abgeleitet und wird mit jeder weiteren Probe fortgeschrieben. Bei Konflikt gilt: Verbotsliste vor Stilprofil. Das Profil füllt den Raum, den die Verbote lassen.
+
+Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 2026). Es war nicht als Stilvorlage geschrieben; einzelne Formulierungen darin sind Einzelfall und keine Norm. Es deckt das Register Weltenbau und Backstory ab. Dialog und szenische Prosa sind daraus nicht belegt und folgen mit weiteren Proben.
+
+**Grundprinzip: geschrieben wie gesprochen.** Der Autor kommt vom Sprechen und schreibt Texte so, wie er sie vortragen würde. Das ist der Ursprung der meisten Merkmale unten: der Satz, der sich beim Reden nachbessert, die Reihung durch Wiederaufnahme, der kurze Nachsatz, der eine Wendung setzt, der Halbsatz, in dem kurz ein anderer spricht. Maßstab ist deshalb nicht das Schriftbild, sondern der Vortrag: Ein Satz, den man so nicht sagen würde, wird umgebaut, auch wenn er auf dem Papier korrekt ist. Der laute Lese-Test aus „Atem und Rhythmus" ist für diese Stimme keine Diagnose, sondern die Entstehungsweise. Grenze: Gesprochen heißt nicht geschwätzig. Was beim Vortrag Füllsel wäre („sozusagen", „quasi", „irgendwie"), gehört auch hier nicht hinein (vgl. „Redundante Verstärker").
+
+**Zwei Sprachschichten, ohne Übergang gemischt.** Idiomatisches, leicht altmodisches Deutsch steht neben englischem Genre- und Technikjargon, und keines wird dem anderen angepasst. „Den Winden und der Witterung trotzend", „Glücksritter", „aller Couleur" auf der einen Seite; „Grey Goo", „Callback Ping", „Cluster", „Ping" auf der anderen. Englische Fachwörter bleiben englisch, wenn sie im Genre oder im Spiel die eingeführten Begriffe sind. Keine Zwangs-Eindeutschung („Rückruf-Signal"), keine Anführungszeichen, keine Erklärung. Die Reibung zwischen den Schichten ist gewollt.
+
+**Erfundene Fachsprache aus bekannten Bausteinen.** Technik wird nicht erklärt, sondern in Komposita behauptet, die der Leser ohne Glossar versteht, weil er beide Hälften kennt: „zellularmechanische Reassembler", „biologische Komplementärneuronen", „persistente Speicher der Zellen". Das Muster kreuzt Biologie mit Rechnertechnik. Dosis: ein bis zwei solcher Begriffe pro Absatz, jeder nur einmal. Wer den Begriff danach erklärt, hat ihn verspielt.
+
+**Lücken offen ausstellen.** Was nicht festgelegt ist, steht als nicht festgelegt im Text, statt kaschiert zu werden: „eine unbekannte andere Fraktion", „die namenlose Ebene", „[REDACTED]". Warum die Welt vergiftet ist, sagt der Text nicht, und er tut nicht so, als wüsste er es. Das Namenlose heißt namenlos. Das erspart Pseudo-Lore, die nur Löcher stopft, und lässt Raum für den späteren Spielverlauf. In szenischer Prosa entspricht dem die Figur, die etwas nicht weiß und es sagt.
+
+**Der kurze Nachsatz nach dem langen Satz, oft mit „Und" oder „Dann" am Anfang.** „…, um das sich anbahnende Grey Goo Szenario einzudämmen. Und sie hätten fast Erfolg gehabt." Der lange Satz baut, der kurze kippt. „Und" und „Dann" am Satzanfang sind Teil der Stimme, kein Fehler. Der Nachsatz trägt eine Wendung, kein Echo (vgl. „Kein Konzessiv-Echo" oben). Er wiederholt nicht, er dreht.
+
+**Nachbessern im Satz.** Präzisierung wird nachgeschoben wie beim Sprechen, statt den Satz vorher fertig zu denken: „ein einziges Signal, nur einen Ping", „des ersten, des neuen Verstandes", „Genauer gesagt auf der namenlosen Ebene zwischen …". Die erste Fassung bleibt stehen, die zweite korrigiert sie. Das erzeugt den Ton eines Erzählers, der am Tisch sitzt.
+
+**Sehnen sickert in den Bericht.** Für einen Moment schildert nicht der Autor, sondern einer der Betroffenen: „Lange, so lange, jahrhundertelang, ohne eine Energiequelle, irrten …". Die Wiederholung ist kein Dehnungsmittel des Erzählers, sondern ein verwehter Duplicator-Verstand, der das Geschehen wiedergibt und dabei kurz sein Sehnen einfließen lässt. Dass es ein biomechanischer Organismus ist, hindert das nicht; es macht den Riss in der Sachlichkeit erst hörbar. Die Regel: Ein Halbsatz, in dem die Stimme des Erlebenden den Bericht färbt, dann zurück in den nüchternen Ton. Kein Innenleben-Absatz, keine Erklärung, wer da spricht.
+
+**Reihung durch Wiederaufnahme, nicht durch Rhetorik.** „Es gibt Fraktionen, die …, es gibt Fraktionen, die …, es gibt Weltraumpiraten aller Couleur und Glücksritter, die …". Die Glieder sind ungleich lang, das letzte am längsten und mit Nachtrag. Das ist Reden, nicht Rede. Erlaubt, solange die Zahl der Glieder aus dem Stoff kommt und die Glieder ungleich bleiben (vgl. „Keine zwanghaften Dreierlisten"). Sobald sie sich im Takt gleichen, ist es die verbotene Schablone.
+
+**Zahlen und Karte statt Stimmung.** Der Zustand der Welt steht als Zahl und Ortsangabe da: „80 % des Planeten", „ein paar tausend Zellen", „zwischen den Robil Hills im Osten und der Aninor Range im Westen. Nordöstlich davon erhebt sich Mount Barrobrí". Himmelsrichtungen, Eigennamen, Größenordnungen. Die Verortung ersetzt die Atmosphäre-Beschreibung; der Leser baut sich das Bild aus der Karte.
+
+**Zoom von Makro auf Mikro, ohne Überschrift.** Die Kamera fährt in eine Richtung: vom Planeten über die Ebene zwischen den Gebirgen auf die eine Figur, die sich erhebt. Das Exposé beginnt weit („eine vergiftete Welt") und landet auf einer Person („Es erhebt sich Juniper Breeze, genannt June"). Der Wechsel geschieht an einem kurzen Satz („Hier beginnt unsere Geschichte"), nie an einer Zwischenüberschrift. Dass die Probe danach noch einmal auf den Planeten hinausfährt, ist ein Nachtrag des Exposés und kein Muster; die Regel ist die Fahrt nach innen.
+
+**Unbelebtes handelt.** Kollektive und Dinge bekommen Verben von Wesen: Fragmente „irren", Zellen „finden sich zusammen", „rufen" und „vernehmen", der Ping „brennt sich ein", Cluster „trotzen" der Witterung. Das ersetzt den Erklär-Satz darüber, was technisch geschieht, durch einen Vorgang, den man sieht.
+
+**Tempus trägt die Zeitsprünge.** Plusquamperfekt für die Vorgeschichte („war überrannt worden"), Präteritum für die Jahrhunderte („irrten", „fanden sich"), Präsens ab dem Moment, an dem die Geschichte beginnt („Und heute …", „erhebt sich"). Kein „Jahre später", keine Zwischenüberschrift. Das Tempus macht den Schnitt.
+
+**Ein Pathos-Moment, genau einer.** Das einzige Ausrufezeichen und das einzige große Bild stehen am Wendepunkt zwischen Rückblick und Gegenwart: „Und heute ist die Zeit der Wiederauferstehung der Duplicatoren endlich gekommen!", „erhebt sich … aus den Aschen dieser Welt". Davor und danach ist der Text nüchtern. Der Ausbruch wirkt, weil er allein steht (vgl. „Höchstens ein Bild pro Szene"). Ein zweites Ausrufezeichen im selben Text entwertet beide.
+
+**Schluss ohne Ausklang.** Der Text endet mit der letzten Sachinformation („…, die Artefakte in den Ruinen suchen."). Kein Fazit, keine Stimmungszeile, kein Cliffhanger-Satz. Deckt sich mit „Keine Floskel-Schlüsse" und ist beim Autor Instinkt, keine Regelbefolgung.
+
+**Nicht Stil, sondern Tipptempo.** Kleingeschriebene Substantive („energiequelle", „fraktionen"), Mischformen wie „Duplicatoren" neben „Duplicators", „coleur" statt „Couleur" sind Flüchtigkeit und werden im Lektorat vereinheitlicht. Wer die Stimme übernimmt, übernimmt das nicht mit.
+
+**Test.** Sprich den Absatz laut, als würdest du ihn jemandem vortragen. Wo du stockst oder etwas anders sagen würdest, ist die Schriftfassung falsch. Dann frage: Steht mindestens ein Fachbegriff unübersetzt und unerklärt? Gibt es einen kurzen Nachsatz, der dreht? Ist eine Lücke offen benannt statt zugekleistert? Färbt an einer Stelle die Stimme eines Betroffenen den Bericht, ohne dass es erklärt wird? Wenn alles Nein, klingt der Absatz nicht nach dem Autor.
+
+---
+
 ## Selbstprüfung vor dem Abschicken
 
 Lies den Text einmal durch und frage dich: Klingt das nach jemandem, der etwas zu sagen hat, oder nach einem System, das einen Text produziert? Wenn Letzteres, neu schreiben.
