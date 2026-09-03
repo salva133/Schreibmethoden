@@ -278,7 +278,7 @@ Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 202
 
 **Zahlen und Karte statt Stimmung.** Der Zustand der Welt steht als Zahl und Ortsangabe da: „80 % des Planeten", „ein paar tausend Zellen", „zwischen den Robil Hills im Osten und der Aninor Range im Westen. Nordöstlich davon erhebt sich Mount Barrobrí". Himmelsrichtungen, Eigennamen, Größenordnungen. Die Verortung ersetzt die Atmosphäre-Beschreibung; der Leser baut sich das Bild aus der Karte.
 
-**Zoom ohne Überschrift.** Die Kamera fährt vom Planeten über die Ebene auf die Figur und dann wieder hinaus. Das Exposé beginnt weit („eine vergiftete Welt"), landet auf einer Person („Es erhebt sich Juniper Breeze, genannt June") und endet wieder weit („Der Planet ist dünn besiedelt"). Der Wechsel geschieht an einem kurzen Satz („Hier beginnt unsere Geschichte"), nie an einer Zwischenüberschrift.
+**Zoom von Makro auf Mikro, ohne Überschrift.** Die Kamera fährt in eine Richtung: vom Planeten über die Ebene zwischen den Gebirgen auf die eine Figur, die sich erhebt. Das Exposé beginnt weit („eine vergiftete Welt") und landet auf einer Person („Es erhebt sich Juniper Breeze, genannt June"). Der Wechsel geschieht an einem kurzen Satz („Hier beginnt unsere Geschichte"), nie an einer Zwischenüberschrift. Dass die Probe danach noch einmal auf den Planeten hinausfährt, ist ein Nachtrag des Exposés und kein Muster; die Regel ist die Fahrt nach innen.
 
 **Unbelebtes handelt.** Kollektive und Dinge bekommen Verben von Wesen: Fragmente „irren", Zellen „finden sich zusammen", „rufen" und „vernehmen", der Ping „brennt sich ein", Cluster „trotzen" der Witterung. Das ersetzt den Erklär-Satz darüber, was technisch geschieht, durch einen Vorgang, den man sieht.
 
