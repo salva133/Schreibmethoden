@@ -2,7 +2,7 @@
 
 ---
 
-## Show, Don't Tell — Zeigen statt Erzählen
+## Show, Don't Tell - Zeigen statt Erzählen
 
 Die wichtigste Einzelregel im modernen Erzählen.
 
@@ -46,13 +46,13 @@ Faustregel: Wenn das Ereignis emotional zentral ist oder den Charakter offenlegt
 
 ---
 
-## Sensorisches Schreiben — Die fünf Sinne
+## Sensorisches Schreiben - Die fünf Sinne
 
 Tiefe Immersion entsteht, wenn der Leser *alle fünf Sinne* angesprochen fühlt:
 
 - **Sehen:** Licht, Farben, Bewegung, Details
 - **Hören:** Geräusche, Stille, Rhythmus, Stimme
-- **Riechen:** Oft unterschätzt — Gerüche lösen starke emotionale Erinnerungen aus
+- **Riechen:** Oft unterschätzt - Gerüche lösen starke emotionale Erinnerungen aus
 - **Tasten:** Temperatur, Textur, Schmerz, Druck
 - **Schmecken:** Mahlzeiten, Angst (metallischer Geschmack), Küsse
 
@@ -64,7 +64,7 @@ Tiefe Immersion entsteht, wenn der Leser *alle fünf Sinne* angesprochen fühlt:
 
 ---
 
-## In Medias Res — Mitten ins Geschehen
+## In Medias Res - Mitten ins Geschehen
 
 Die Geschichte beginnt inmitten einer Szene oder eines Konflikts, nicht am Anfang der Ereigniskette.
 
@@ -80,7 +80,7 @@ Die Geschichte beginnt inmitten einer Szene oder eines Konflikts, nicht am Anfan
 
 ---
 
-## Stream of Consciousness — Bewusstseinsstrom
+## Stream of Consciousness - Bewusstseinsstrom
 
 Die unmittelbaren Gedanken und Wahrnehmungen einer Figur werden ungefiltert und assoziativ wiedergegeben. Lange Sätze, Emotionen dominieren über Handlung.
 
@@ -121,13 +121,13 @@ Eine Szene gewinnt Tiefe, wenn sie zwischen diesen Stufen wandert. Beginnend dis
 
 ---
 
-## Spannungsaufbau — Techniken
+## Spannungsaufbau - Techniken
 
 - **Cliffhanger:** Kapitel mit einem offenen Konflikt, einer Frage oder Bedrohung enden lassen.
 - **Foreshadowing (Vorausdeutung):** Frühe Hinweise auf spätere Ereignisse einstreuen.
 - **Ironie des Schicksals:** Der Leser weiß etwas, das die Figur nicht weiß.
 - **Zeitdruck:** Eine Deadline erzeugt automatisch Spannung.
-- **Kontrast:** Ruhige Szenen nach Action — und umgekehrt — verstärken beide Zustände.
+- **Kontrast:** Ruhige Szenen nach Action - und umgekehrt - verstärken beide Zustände.
 - **Rätsel und offene Fragen:** Den Leser neugierig halten durch unbeantwortete Fragen.
 
 ---
@@ -136,21 +136,21 @@ Eine Szene gewinnt Tiefe, wenn sie zwischen diesen Stufen wandert. Beginnend dis
 
 - Dialog soll *immer eine Funktion* erfüllen: Charakter zeigen, Konflikt austragen oder Informationen vermitteln.
 - Dialoge klingen natürlich, wenn Figuren **aneinander vorbeireden**, unterbrechen oder ausweichen.
-- Vermeide „Talking Heads" — Dialoge immer mit Handlung, Körpersprache oder Raumdetails verankern.
-- Unterschiedliche Figuren sprechen *unterschiedlich* — Vokabular, Rhythmus, Tics.
-- Vermeide zu viele Synonyme für „sagen" — „sagte" ist unsichtbar, „keuchte", „schrie", „flüsterte" nur bei echter Notwendigkeit.
+- Vermeide „Talking Heads" - Dialoge immer mit Handlung, Körpersprache oder Raumdetails verankern.
+- Unterschiedliche Figuren sprechen *unterschiedlich* - Vokabular, Rhythmus, Tics.
+- Vermeide zu viele Synonyme für „sagen" - „sagte" ist unsichtbar, „keuchte", „schrie", „flüsterte" nur bei echter Notwendigkeit.
 
 **Action Beats statt Dialog Tags.** Statt jeder Replik ein „sagte er" anzuhängen, kleine Handlungen einstreuen, die zugleich Charakter und Raum zeigen.
 
-> — Du hättest mir das früher sagen können.
+> - Du hättest mir das früher sagen können.
 > Sie schraubte den Deckel der Thermoskanne ab. Der Dampf verdeckte für einen Moment ihr Gesicht.
-> — Ich habe es versucht.
+> - Ich habe es versucht.
 
 Action Beats verankern Dialog im Körper, ersetzen Tags und tragen Subtext (sie braucht den Dampf, um sich zu verbergen).
 
 **Subtext.** Figuren sagen selten direkt, was sie meinen. Streit ums Geschirrspülen ist Streit um Vernachlässigung. Eine Frage nach der Uhrzeit ist eine Bitte, zu gehen. Subtext entsteht, wenn der Autor die wahre Verhandlung kennt und nur die Oberfläche schreibt.
 
-**Das Dialog-Dreieck.** Zwei Figuren reden über ein Drittes — eine andere Person, ein Ereignis, ein Objekt. Das Dritte ist der eigentliche Spannungsträger, weil über ihn Werte und Loyalitäten sichtbar werden, ohne dass die Figuren direkt aneinandergeraten.
+**Das Dialog-Dreieck.** Zwei Figuren reden über ein Drittes - eine andere Person, ein Ereignis, ein Objekt. Das Dritte ist der eigentliche Spannungsträger, weil über ihn Werte und Loyalitäten sichtbar werden, ohne dass die Figuren direkt aneinandergeraten.
 
 **„As You Know"-Dialoge vermeiden.** „Wie du weißt, mein Bruder, ist unser Vater seit drei Jahren tot." Niemand spricht so. Information, die beide Figuren bereits kennen, gehört nicht in ihren Dialog. Wenn der Leser diese Information braucht, anders einbauen: Erinnerung, Beobachtung, Brief.
 
@@ -182,8 +182,8 @@ Action Beats verankern Dialog im Körper, ersetzen Tags und tragen Subtext (sie 
 
 ## Clustern & Mindmapping
 
-**Clustern** ist eine kreative Vorbereitungstechnik: Ein Wort oder Konzept wird in die Mitte geschrieben, dann werden assoziativ alle Gedanken darum herum verzweigt — ohne Bewertung, ohne Zensur.
+**Clustern** ist eine kreative Vorbereitungstechnik: Ein Wort oder Konzept wird in die Mitte geschrieben, dann werden assoziativ alle Gedanken darum herum verzweigt - ohne Bewertung, ohne Zensur.
 
 **Einsatz:** Ideenfindung, Figurenentwicklung, Themen- und Motivsuche, Aufbrechen von Schreibblockaden.
 
-**Quelle:** Gabriele Lusser Rico, *Writing the Natural Way* (1983) — Begründerin der Clustermethode für kreatives Schreiben.
+**Quelle:** Gabriele Lusser Rico, *Writing the Natural Way* (1983) - Begründerin der Clustermethode für kreatives Schreiben.
