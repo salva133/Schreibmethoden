@@ -1,4 +1,4 @@
-# Stilregeln - Prosa mit Stimme
+# Stilregeln: Prosa mit Stimme
 
 Diese Regeln zielen auf Text, der nicht nach KI klingt. Sie sind keine Geschmacksfragen, sondern Werkzeuge gegen die statistischen Vorlieben großer Sprachmodelle: Schablonen, die wirken, weil sie häufig vorkommen, und genau deshalb tot sind.
 
@@ -16,11 +16,11 @@ Fehlt nach dem Streichen wirklich eine Information, gehört sie in einen eigenen
 
 ## Verbotene Muster
 
-**Keine „Nicht nur X, sondern Y"-Konstruktionen** - und verwandte Formen wie **„Nicht X. Nicht Y, sondern Z"** eingeschlossen. Diese antithetischen Schablonen sind verboten. Wenn ein Gegensatz wirklich besteht, formuliere ihn anders. Wenn keiner besteht, lass es weg.
+**Keine „Nicht nur X, sondern Y"-Konstruktionen.** Verwandte Formen wie **„Nicht X. Nicht Y, sondern Z"** sind eingeschlossen. Diese antithetischen Schablonen sind verboten. Wenn ein Gegensatz wirklich besteht, formuliere ihn anders. Wenn keiner besteht, lass es weg.
 
 **Keine zwanghaften Dreierlisten.** Aufzählungen müssen nicht aus drei Elementen bestehen, nur weil das rhythmisch klingt. Zwei oder vier Punkte sind oft ehrlicher. Wenn drei Dinge wirklich drei Dinge sind, dann drei. Sonst nicht.
 
-**Em- und En-Dashes sind verboten.** Der Geviertstrich (-) und der Halbgeviertstrich (-) kommen in keinem Text vor, auch nicht in Überschriften, Zitaten, Listen oder Zahlenspannen. Wo ein Gedankenstrich gesetzt werden soll, steht der einfache Bindestrich (-): „Er zögerte - dann ging er." Bei Spannen ebenfalls: „2-4 Wochen". Meist ist der Bindestrich als Gedankenstrich aber gar nicht nötig; Komma, Punkt oder ein neuer Satz sind die bessere Wahl. Gedankenstriche sind kein Universal-Trennzeichen.
+**Keine Gedankenstriche.** Geviertstrich (Em-Dash) und Halbgeviertstrich (En-Dash) kommen in keinem Text vor, auch nicht in Überschriften, Zitaten, Listen oder Zahlenspannen. Das einzige zulässige Strichzeichen ist der einfache Bindestrich. Er steht in Komposita, in Zahlenspannen wie „2-4 Wochen" und, wo ein Gedankenstrich wirklich unverzichtbar ist, an dessen Stelle. Unverzichtbar ist er fast nie: Was früher ein Gedankenstrich trennte, trennt jetzt Komma, Doppelpunkt, Punkt oder ein neuer Satz. Ein Einschub, der so keinen Platz findet, war zu lang.
 
 **Keine Hedging-Floskeln.** Streiche: „Es ist wichtig zu beachten, dass", „Man sollte erwähnen, dass", „Letzten Endes", „Am Ende des Tages", „Es bleibt festzuhalten". Wenn etwas wichtig ist, schreib es einfach hin.
 
@@ -44,7 +44,7 @@ Fehlt nach dem Streichen wirklich eine Information, gehört sie in einen eigenen
 
 **Adverbien sparsam.** „-lich"-Verstärker („leise", „langsam", „vorsichtig") prüfen, ob das Verb sie schon enthält. „Sie flüsterte leise" ist redundant. Wenn das Adverb das Verb verändert, behalten. Wenn es es bloß wiederholt, streichen. Stephen King: „Der Weg zur Hölle ist mit Adverbien gepflastert."
 
-**Filterwörter raus.** „Sah", „hörte", „bemerkte", „dachte", „fühlte", „spürte" schaffen eine Schicht zwischen Leser und Wahrnehmung. Statt „Er sah, wie sie ging" → „Sie ging". Statt „Sie spürte die Kälte" → „Die Kälte kroch durch ihren Mantel". Filterwörter sind nur dann nötig, wenn die Wahrnehmung selbst zur Handlung gehört - etwa wenn jemand einen anderen beobachtet, der nicht zurückblickt.
+**Filterwörter raus.** „Sah", „hörte", „bemerkte", „dachte", „fühlte", „spürte" schaffen eine Schicht zwischen Leser und Wahrnehmung. Statt „Er sah, wie sie ging" → „Sie ging". Statt „Sie spürte die Kälte" → „Die Kälte kroch durch ihren Mantel". Filterwörter sind nur dann nötig, wenn die Wahrnehmung selbst zur Handlung gehört, etwa wenn jemand einen anderen beobachtet, der nicht zurückblickt.
 
 **Kein Selbstporträt der Fokusfigur.** In personaler Perspektive beschreibt der Erzähler nicht die eigene Erscheinung der Fokusfigur von außen, als stünde sie vor einem Spiegel. „Seine bernsteinfarbenen Augen blieben auf der Mauer" oder „das Licht fiel auf seine blauen Schuppen" sind Distanzmarker; die Figur sieht ihre eigene Augenfarbe nicht. Erscheinungsdetails gehören dorthin, wo eine andere Figur sie wahrnimmt, oder werden als gefühlte Wirkung gezeigt: statt „seine blauen Schuppen" lieber „das graue Land nahm selbst seinen Schuppen die Farbe".
 
@@ -58,7 +58,7 @@ Fehlt nach dem Streichen wirklich eine Information, gehört sie in einen eigenen
 
 **Klassischer deutscher Satzbau.** Verb an zweiter Stelle im Hauptsatz, Nebensätze mit Verbendstellung. Keine Anglizismen in der Syntax (kein „Er ist der Meinung, dass dies wichtig ist zu beachten"). Inversionen sparsam und bewusst einsetzen, nicht als Stilmittel-Reflex.
 
-**Wortwiederholungen vermeiden.** Dasselbe Wort darf nicht in unmittelbarer Nähe mehrfach auftauchen. Zuerst Synonym suchen. Ist keines möglich, Satz kürzen oder umbauen. Gegenbeispiel: „Der Mad Cat reagierte als Letzter. Er reagierte sofort, als er reagierte." → Entweder: „Der Mad Cat reagierte als Letzter - und dann mit voller Wucht." Oder kürzen: „Der Mad Cat war der Letzte, der handelte." -> siehe auch [[Ueberarbeitung]]
+**Wortwiederholungen vermeiden.** Dasselbe Wort darf nicht in unmittelbarer Nähe mehrfach auftauchen. Zuerst Synonym suchen. Ist keines möglich, Satz kürzen oder umbauen. Gegenbeispiel: „Der Mad Cat reagierte als Letzter. Er reagierte sofort, als er reagierte." → Entweder: „Der Mad Cat reagierte als Letzter, dann aber mit voller Wucht." Oder kürzen: „Der Mad Cat war der Letzte, der handelte." -> siehe auch [[Ueberarbeitung]]
 
 ---
 
@@ -84,13 +84,13 @@ Im Zweifel: weglassen. Kürzere Texte sind fast immer besser als längere. Wenn 
 
 Erzählprosa unterscheidet sich von einer Chronik darin, dass sie Szenen ausstellt, statt Ereignisse zu protokollieren. Eine Chronik referiert, was passiert ist; eine Geschichte lässt es passieren. Der schnellste Hebel dafür ist Dialog.
 
-**Dialog großzügig einsetzen.** Wenn zwei Figuren Information austauschen, Konflikt austragen oder eine Entscheidung treffen, gehört das in direkte Rede. „Liliana erzählte vom Angriff" ist Chronik. Die Schwester, die mit zitternder Stimme erst stockend, dann immer schneller die Park-Szene schildert, ist Geschichte. Indirekte Rede ist legitim, wenn sie Tempo macht oder Routinen rafft - die Hauptmomente einer Szene gehören als direkter Wortwechsel auf die Seite.
+**Dialog großzügig einsetzen.** Wenn zwei Figuren Information austauschen, Konflikt austragen oder eine Entscheidung treffen, gehört das in direkte Rede. „Liliana erzählte vom Angriff" ist Chronik. Die Schwester, die mit zitternder Stimme erst stockend, dann immer schneller die Park-Szene schildert, ist Geschichte. Indirekte Rede ist legitim, wenn sie Tempo macht oder Routinen rafft. Die Hauptmomente einer Szene gehören als direkter Wortwechsel auf die Seite.
 
-**Szene vor Zusammenfassung.** Was dramatisch, kennzeichnend oder emotional aufgeladen ist, wird szenisch ausgespielt, mit Handlung, Wahrnehmung und Sprechen im Wechsel. Was nur Übergang ist, darf gerafft werden - „In den Tagen danach verstand sie nichts" fasst drei Tage in einen Halbsatz, das Begreifen an der Fleischtheke wird dann wieder szenisch.
+**Szene vor Zusammenfassung.** Was dramatisch, kennzeichnend oder emotional aufgeladen ist, wird szenisch ausgespielt, mit Handlung, Wahrnehmung und Sprechen im Wechsel. Was nur Übergang ist, darf gerafft werden: „In den Tagen danach verstand sie nichts" fasst drei Tage in einen Halbsatz, das Begreifen an der Fleischtheke wird dann wieder szenisch.
 
 **Action Beats statt Sprecher-Tags mit Adverb.** Statt „sagte sie nervös" eine kleine Handlung, die das Nervöse zeigt: „Sie drehte den Beutel zwischen den Fingern. ‚Es geht ihr nicht gut.'" Action Beats geben dem Dialog Raum, Tempo und Verortung und ersetzen Adverb-Floskeln am Sprecher-Tag.
 
-**Stimmen unterscheiden.** Jede Figur spricht anders - Wortwahl, Satzbau, Lautstärke, Dialektfärbung. Wenn alle Figuren wie der Erzähler klingen, ist es Chronik, nicht Dialog. Wer Glasgow 1986 schreibt, darf (sparsam) schottisches Sprachgut, Soldatensprache, Klerikersprache je nach Figur einsetzen, solange die Verständlichkeit für den deutschen Leser gewahrt bleibt.
+**Stimmen unterscheiden.** Jede Figur spricht anders: Wortwahl, Satzbau, Lautstärke, Dialektfärbung. Wenn alle Figuren wie der Erzähler klingen, ist es Chronik, nicht Dialog. Wer Glasgow 1986 schreibt, darf (sparsam) schottisches Sprachgut, Soldatensprache, Klerikersprache je nach Figur einsetzen, solange die Verständlichkeit für den deutschen Leser gewahrt bleibt.
 
 **Erzähler tritt zurück.** Was eine Figur sehen, sagen oder tun kann, übernimmt der Erzähler nicht. „Alastair erklärte ihr, dass die Maskerade gefährdet sei" ist Chronik; ein Satz Alastairs, der die Maskerade-Sorge im O-Ton ausspricht, ist Geschichte.
 
@@ -100,13 +100,13 @@ Erzählprosa unterscheidet sich von einer Chronik darin, dass sie Szenen ausstel
 
 ## Atem und Rhythmus
 
-Die Verkürzungs-Verbote dieser Datei - Filterwörter, Adverbien, Schwächungsverben, Verstärker, Passiv, „im Zweifel weglassen" - ziehen die Prosa in Richtung Knappheit. Ohne Gegendruck wird daraus Staccato: viele kurze Hauptsätze hintereinander, keine Subordination, das Tempo der Szene überholt den Leser. Gegen diesen Sog gelten folgende Regeln.
+Die Verkürzungs-Verbote dieser Datei (Filterwörter, Adverbien, Schwächungsverben, Verstärker, Passiv, „im Zweifel weglassen") ziehen die Prosa in Richtung Knappheit. Ohne Gegendruck wird daraus Staccato: viele kurze Hauptsätze hintereinander, keine Subordination, das Tempo der Szene überholt den Leser. Gegen diesen Sog gelten folgende Regeln.
 
 **Konjunktionen nutzen.** „Und", „aber", „während", „denn", „obwohl", „nachdem", „als" sind keine Hedging-Floskeln, sondern Strukturmittel. Sie binden Beobachtungen zu Bewegungen. Ein Punkt zwischen zwei Beobachtungen, die kausal oder zeitlich zusammengehören, ist ein Schnitt, der den Zusammenhang zerschneidet.
 
 **Mindestens ein langer, sich entfaltender Satz pro Absatz.** Ein Hauptsatz mit Nebensatz, eine Aufzählung mit Verb, ein Relativsatz, der ein Bild ausstellt. Wenn ein Absatz nur aus Sätzen mit weniger als zwölf Wörtern besteht, hat er keinen Atem. Das gilt für Erzählprosa; in Dialogen darf knapper geschrieben werden, weil Sprechsprache anders taktet.
 
-**Einwortsätze sind Pointen, keine Bausteine.** „Blut." „Genug." „Sog." wirken stark, weil sie selten sind. Höchstens einer pro Szene, höchstens zwei pro Kapitel - sonst manieriert.
+**Einwortsätze sind Pointen, keine Bausteine.** „Blut." „Genug." „Sog." wirken stark, weil sie selten sind. Höchstens einer pro Szene, höchstens zwei pro Kapitel, sonst wird es manieriert.
 
 **Show heißt nicht Aufzählung.** Eine Folge reiner Beobachtungssätze („Sie sah. Sie ging. Sie hielt inne.") ist kein Show, sondern Telegramm. Wahrnehmung darf in Subordination eingebettet sein, ohne dass sie zur Tell-Erklärung wird. „Sie hielt inne, als sie den Schatten an der Wand wachsen sah" ist Show *und* Bewegung.
 
@@ -142,7 +142,7 @@ Der Abschnitt „Geschichte statt Chronik" verlangt Dialog. Damit Dialog nicht b
 
 **Idiolekt ist Pflicht.** Jede Figur trägt ein erkennbares Sprachmuster durch alle Kapitel: der altmodische, bedachte Satzbau des einen; die abgehackte, artikellose Rede in dritter Person des anderen. Prüfe die Stimmen über Kapitelgrenzen hinweg auf Konstanz. Vgl. „Stimmen unterscheiden" oben und [[Charaktere]].
 
-**Sprache nach Alter, Herkunft und Zeit kalibrieren.** Eine Figur redet nicht so, wie es schön klingt, sondern so, wie jemand ihres Alters, ihrer Bildung, ihrer Herkunft und ihrer Epoche redet. Eine vierundzwanzigjährige Studentin im Glasgow von 1986 spricht knapp, modern, im Zweifel stockend, und greift zu den Wörtern ihrer Generation; Bilder, Kenningar und archaischer Satzbau gehören einer alten Seherin oder einer Figur, die bewusst so angelegt ist. Wer eine Figur literarisch oder altertümlich reden lässt, ohne dass Alter, Beruf und Zeit es decken, verrät sie an die Erzählerstimme, und der schärfste Kontrast einer Geschichte - die nüchterne Junge neben der bardischen Alten - geht verloren. Prüfe bei jeder Replik: Würde dieser Mensch, in diesem Jahr, an diesem Ort, mit dieser Schulbildung, diesen Satz so sagen? Dialekt und Soziolekt gehören dosiert dazu (vgl. „Stimmen unterscheiden"), aber der erste Hebel ist die Kalibrierung auf Alter, Herkunft, Zeit und Gemütslage.
+**Sprache nach Alter, Herkunft und Zeit kalibrieren.** Eine Figur redet nicht so, wie es schön klingt, sondern so, wie jemand ihres Alters, ihrer Bildung, ihrer Herkunft und ihrer Epoche redet. Eine vierundzwanzigjährige Studentin im Glasgow von 1986 spricht knapp, modern, im Zweifel stockend, und greift zu den Wörtern ihrer Generation; Bilder, Kenningar und archaischer Satzbau gehören einer alten Seherin oder einer Figur, die bewusst so angelegt ist. Wer eine Figur literarisch oder altertümlich reden lässt, ohne dass Alter, Beruf und Zeit es decken, verrät sie an die Erzählerstimme, und der schärfste Kontrast einer Geschichte, die nüchterne Junge neben der bardischen Alten, geht verloren. Prüfe bei jeder Replik: Würde dieser Mensch, in diesem Jahr, an diesem Ort, mit dieser Schulbildung, diesen Satz so sagen? Dialekt und Soziolekt gehören dosiert dazu (vgl. „Stimmen unterscheiden"), aber der erste Hebel ist die Kalibrierung auf Alter, Herkunft, Zeit und Gemütslage.
 
 ---
 
@@ -154,7 +154,7 @@ Der Abschnitt „Geschichte statt Chronik" verlangt Dialog. Damit Dialog nicht b
 
 ---
 
-## Nüchternheit - gegen die geschwollene Variante
+## Nüchternheit: gegen die geschwollene Variante
 
 Die Verbote oben treffen die platte KI-Prosa. Es gibt eine zweite Sorte, die das Gegenteil zu sein scheint und denselben Fehler macht: zu viel Handwerk, sichtbar aufgetragen. Sie klingt „literarisch" und ist genau deshalb falsch. Gegen sie gelten folgende Regeln.
 
@@ -177,13 +177,13 @@ Die Verbote oben treffen die platte KI-Prosa. Es gibt eine zweite Sorte, die das
 **Keine Autor-Kommentare im Erzähltext.** Sätze, die dem Leser sagen, dass etwas wirkt oder wahr ist, sind aufgesetzt.
 
 - Schlecht: „Es saß, weil es wahr war."
-- Besser: „Er hatte recht." - oder weg, wenn die Szene es schon zeigt.
+- Besser: „Er hatte recht." Oder ganz weg, wenn die Szene es schon zeigt.
 
-**Figurenrede: Funktion vor Eleganz.** Jede Replik erfüllt eine schlichte Aufgabe - warnen, entscheiden, fragen. Sie führt keine Weisheit vor. Eigenart entsteht durch einfache Wortwahl und durch das, was eine Figur weglässt.
+**Figurenrede: Funktion vor Eleganz.** Jede Replik erfüllt eine schlichte Aufgabe: warnen, entscheiden, fragen. Sie führt keine Weisheit vor. Eigenart entsteht durch einfache Wortwahl und durch das, was eine Figur weglässt.
 
 **Klartext statt Jargon.** Keine Business- oder Abstrakt-Wörter wie „Linie", „Schiene", „Vektor", „Setup". Das Gemeinte einfach sagen. Gilt auch außerhalb der Prosa, in Notizen und Kommentaren.
 
-**Sag es gleich richtig.** Nicht erst verklausuliert schreiben und dann erklären. Die klare Fassung ist die einzige. Kein „X hieß: Y" - nur Y.
+**Sag es gleich richtig.** Nicht erst verklausuliert schreiben und dann erklären. Die klare Fassung ist die einzige. Kein „X hieß: Y", nur Y.
 
 ---
 
@@ -211,17 +211,17 @@ Ergänzung zu „Verbotene Muster". Diese Marker stammen aus Redaktions- und Det
 
 **Hochglanz- und Werbewörter.** „Atemberaubend", „malerisch", „pulsierend", „reiches Erbe" sind Wertungen ohne Anschauung. Ersetze sie durch einen konkreten Sinneseindruck, an dem der Leser die Wertung selbst zieht.
 
-**Vage Zuschreibung.** „Man sagt", „viele glauben", „es ist bekannt, dass", „Studien zeigen" - wer genau? Wenn niemand Bestimmtes dahintersteht, streichen. In der Prosa gehört solches Wissen in eine Figur, die es sagt oder denkt, nicht in eine anonyme Erzähler-Instanz.
+**Vage Zuschreibung.** „Man sagt", „viele glauben", „es ist bekannt, dass", „Studien zeigen": Wer genau? Wenn niemand Bestimmtes dahintersteht, streichen. In der Prosa gehört solches Wissen in eine Figur, die es sagt oder denkt, nicht in eine anonyme Erzähler-Instanz.
 
 **Partizip- und Anhängsel-Schwänze.** Das KI-Muster „Hauptsatz, dann angehängtes Partizip mit Deutung": „Er trat vor, wohl wissend, dass …", „…, ein stiller Beweis dafür, dass …", „…, was das Ganze umso schwerer machte", „…, was er nie zugegeben hätte". Diese Schwänze tun Tiefe kund, statt sie zu erzeugen. Mach daraus einen eigenen Satz oder streiche ihn. (Verwandt mit den Filterwörtern und der Über-Erklärung oben.)
 
-**Übergangswort-Häufung.** „Zudem", „Darüber hinaus", „Folglich", „Somit", „Letztlich", „Dabei" sind einzeln legitim, gehäuft der Takt eines Aufsatz-Automaten. In Erzählprosa fast immer streichbar: Die Reihenfolge der Sätze trägt den Zusammenhang schon. (Nicht zu verwechseln mit den bindenden Konjunktionen aus „Atem und Rhythmus" - „und", „aber", „während", „als" binden Bewegung, „Darüber hinaus" verwaltet nur.)
+**Übergangswort-Häufung.** „Zudem", „Darüber hinaus", „Folglich", „Somit", „Letztlich", „Dabei" sind einzeln legitim, gehäuft der Takt eines Aufsatz-Automaten. In Erzählprosa fast immer streichbar: Die Reihenfolge der Sätze trägt den Zusammenhang schon. (Nicht zu verwechseln mit den bindenden Konjunktionen aus „Atem und Rhythmus": „und", „aber", „während", „als" binden Bewegung, „Darüber hinaus" verwaltet nur.)
 
 **Behauptung, dann sofort Erklärung.** Der Dauertakt „Aussage. Und das lag daran, dass …" / „X. Denn Y." Nicht jeder Satz braucht seine nachgeschobene Begründung. Setz die Aussage hin und lass sie stehen, oder zeig den Grund als Handlung. Wenn jeder Beat sich selbst erklärt, entsteht die gleichförmige, brave Textur, an der man die Maschine erkennt.
 
 **Titel- und Slogan-Formeln.** „Von X zu Y", „Meistere X in Y Schritten", „Entfessle/Elevate/Unlock". Gehört in Werbung, nicht in Prosa und nicht in nüchterne Sachtexte.
 
-**Gleichförmigkeit auch auf Absatzebene.** Die Variations-Regel aus „Atem und Rhythmus" gilt nicht nur für Sätze. Wenn jeder Absatz drei bis vier Sätze hat und jeder Abschnitt gleich gebaut ist - Aufschlag, Ausführung, kleine Pointe -, entsteht dieselbe maschinelle Ebenmäßigkeit wie bei gleich langen Sätzen. Setz einen Einzeiler neben einen langen Block. Du besitzt die Struktur; das Muster besitzt dich nicht.
+**Gleichförmigkeit auch auf Absatzebene.** Die Variations-Regel aus „Atem und Rhythmus" gilt nicht nur für Sätze. Wenn jeder Absatz drei bis vier Sätze hat und jeder Abschnitt gleich gebaut ist (Aufschlag, Ausführung, kleine Pointe), entsteht dieselbe maschinelle Ebenmäßigkeit wie bei gleich langen Sätzen. Setz einen Einzeiler neben einen langen Block. Du besitzt die Struktur; das Muster besitzt dich nicht.
 
 > Quellen (übertragen und eingedeutscht): Wikipedia, „Signs of AI writing"; Redaktions- und Detektions-Leitfäden zu KI-Prosa (u. a. GPTZero zur „rule of three", Analysen zur Partizip-/„-ing"-Häufung). Zugriff Juli 2026.
 
@@ -229,7 +229,7 @@ Ergänzung zu „Verbotene Muster". Diese Marker stammen aus Redaktions- und Det
 
 ## Dialog: gesprochen, nicht vorgetragen
 
-Eine eigene Falle, eng verwandt mit der geschwollenen Variante: Figurenrede, die wie eine Rede am Pult klingt statt wie geredete Sprache. Sie ist ausbalanciert, zitierfähig, jeder Satz eine fertige Pointe - und weil alle Figuren so reden, haben sie am Ende keine eigene Stimme mehr.
+Eine eigene Falle, eng verwandt mit der geschwollenen Variante: Figurenrede, die wie eine Rede am Pult klingt statt wie geredete Sprache. Sie ist ausbalanciert, zitierfähig, jeder Satz eine fertige Pointe. Und weil alle Figuren so reden, haben sie am Ende keine eigene Stimme mehr.
 
 **Keine Dreiklänge in der Rede.** Niemand zählt im Gespräch drei parallele Glieder auf.
 
@@ -244,7 +244,7 @@ Eine eigene Falle, eng verwandt mit der geschwollenen Variante: Figurenrede, die
 
 **Nicht jeder Satz eine Pointe.** Echte Rede stockt, setzt neu an, wiederholt sich, sagt Belangloses, bricht ab. Füllsel, Selbstkorrektur und halbe Gedanken gehören dazu. Lückenlose Effizienz ist selbst das Künstliche.
 
-**Den Namen nicht als Taktschlag streuen.** Die Anrede nur dort, wo sie etwas tut - Aufmerksamkeit holen, schärfen, Distanz setzen.
+**Den Namen nicht als Taktschlag streuen.** Die Anrede nur dort, wo sie etwas tut: Aufmerksamkeit holen, schärfen, Distanz setzen.
 
 **Keine Bilanz-Reden.** Eine Figur fasst nicht den ganzen Sachverhalt ausgewogen zusammen. Wenn der Leser etwas wissen muss, kommt es schief, stückweise, im Streit, nicht als Vortrag. Sonst wird die Figur zum Erklär-Werkzeug des Autors.
 
@@ -254,7 +254,7 @@ Eine eigene Falle, eng verwandt mit der geschwollenen Variante: Figurenrede, die
 
 ---
 
-## Autorenstimme - Stilprofil aus eigenen Texten
+## Autorenstimme: Stilprofil aus eigenen Texten
 
 Die Verbote dieser Datei sagen, was nicht in den Text gehört. Dieser Abschnitt sagt, wie der Text klingt, wenn er nach dem Autor klingt. Er ist aus eigenen Textproben abgeleitet und wird mit jeder weiteren Probe fortgeschrieben. Bei Konflikt gilt: Verbotsliste vor Stilprofil. Das Profil füllt den Raum, den die Verbote lassen.
 

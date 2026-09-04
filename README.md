@@ -1,6 +1,6 @@
 # Schreibmethoden
 
-Bewährte Techniken, Strukturen und Strategien für das Schreiben - gesammelt, geordnet und zu einem eigenen, anwendbaren Maßstab verdichtet. Dieses Verzeichnis ist der zentrale Maßstab für Schreibstil und Formulierungsqualität im gesamten `Schreiben`-Repository und gilt für alle Texte (NRPG-Stories, Lore-Einträge, Prosa) unabhängig von Welt oder System.
+Bewährte Techniken, Strukturen und Strategien für das Schreiben, gesammelt, geordnet und zu einem eigenen, anwendbaren Maßstab verdichtet. Dieses Verzeichnis ist der zentrale Maßstab für Schreibstil und Formulierungsqualität im gesamten `Schreiben`-Repository und gilt für alle Texte (NRPG-Stories, Lore-Einträge, Prosa) unabhängig von Welt oder System.
 
 Das Repository ist als Obsidian-Vault angelegt; interne Verweise nutzen Wikilinks (`[[…]]`).
 
@@ -31,7 +31,7 @@ Dieses Werk steht unter der [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 Die Lizenz ist bewusst so gewählt, dass beide Seiten abgedeckt sind:
 
-- **Nutzung und Zitierung fremder Methoden.** Die hier referenzierten Schreibtechniken und Ratschläge Dritter sind Ideen und Verfahren und damit nicht urheberrechtlich geschützt - ihre Erwähnung, Paraphrase und Anwendung ist ohnehin frei. Wo einzelne Methoden namentlich zugeordnet sind (King, Hemingway, Sanderson u. a.), bleibt diese Zuschreibung als gute fachliche Praxis erhalten.
+- **Nutzung und Zitierung fremder Methoden.** Die hier referenzierten Schreibtechniken und Ratschläge Dritter sind Ideen und Verfahren und damit nicht urheberrechtlich geschützt. Ihre Erwähnung, Paraphrase und Anwendung ist ohnehin frei. Wo einzelne Methoden namentlich zugeordnet sind (King, Hemingway, Sanderson u. a.), bleibt diese Zuschreibung als gute fachliche Praxis erhalten.
 - **Eigene Weiterentwicklungen.** Die eigene sprachliche Ausgestaltung, Auswahl, Anordnung und Synthese in diesem Repository ist das geschützte Werk. CC BY-SA 4.0 erlaubt Weitergabe und Bearbeitung unter zwei Bedingungen: Namensnennung (BY) und Weitergabe abgeleiteter Werke unter derselben Lizenz (SA, Copyleft). So bleiben auch Ableitungen offen und auf den Urheber zurückführbar.
 
 Empfohlene Zitierweise:

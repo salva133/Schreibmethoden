@@ -1,14 +1,14 @@
 # Überarbeitung & Lektorat
 
 ---
-## Der erste Entwurf ist roh - und das ist gut so
+## Der erste Entwurf ist roh, und das ist gut so
 
 Lass den ersten Entwurf kühl werden: **mindestens 2-4 Wochen** nicht anschauen. Dann mit frischen Augen lesen.
 
 Ziel des ersten Entwurfs: **Existenz**, nicht Qualität. Erst schreiben, dann verbessern.
 
 > „Der erste Entwurf von allem ist Scheiße."
-> - Ernest Hemingway (zugeschrieben)
+> *Ernest Hemingway (zugeschrieben)*
 
 ---
 ## Mehrere Überarbeitungsphasen
@@ -27,10 +27,10 @@ Bearbeite das Manuskript in *getrennten Durchgängen*, je nach Ebene:
 ---
 ## Selbstlektorat-Tipps
 
-- **Laut vorlesen** - Ohren hören Stolperstellen, die Augen überlesen.
-- **Von hinten lesen** (Satz für Satz rückwärts) für Korrektorat - unterbricht den Lesefluss.
-- **Schriftart und -größe wechseln** - das Gehirn sieht den Text neu.
-- **Persönliche Fehlerliste führen** - jeder Autor hat Lieblingsformulierungen und Schwächen.
+- **Laut vorlesen.** Ohren hören Stolperstellen, die Augen überlesen.
+- **Von hinten lesen** (Satz für Satz rückwärts) für Korrektorat. Das unterbricht den Lesefluss.
+- **Schriftart und -größe wechseln.** Das Gehirn sieht den Text neu.
+- **Persönliche Fehlerliste führen.** Jeder Autor hat Lieblingsformulierungen und Schwächen.
 - **Kill Your Darlings** (King/Faulkner): Streiche Passagen, die du liebst, aber die die Geschichte nicht voranbringen.
 
 ---
@@ -38,14 +38,14 @@ Bearbeite das Manuskript in *getrennten Durchgängen*, je nach Ebene:
 
 Wenn ein Wort wegen einer Stilregel getauscht wird (Wiederholung, Filterwort, Adverb, Tempus), reicht es nicht, *irgendein* Ersatzwort einzusetzen. Drei Prüfungen am neuen Satz, bevor die Korrektur steht:
 
-- **Semantisch tragfähig.** Hält das Bild noch? „Schatten älter aussehen lassen" kippt, weil Schatten kein wahrnehmbares Alter haben. Wenn der Ersatz das Bild bricht, ist er falsch - egal wie er die Wiederholung löst.
+- **Semantisch tragfähig.** Hält das Bild noch? „Schatten älter aussehen lassen" kippt, weil Schatten kein wahrnehmbares Alter haben. Wenn der Ersatz das Bild bricht, ist er falsch, egal wie er die Wiederholung löst.
 - **Grammatikalisch verträglich.** Numerus, Genus, Kasus, Tempus müssen zum neuen Bezugswort passen. Ein Begriff aus einer früheren Fassung bringt seine alte Form mit (Singular „jeden Schatten" passt nicht zu Plural „als sie waren").
-- **Den richtigen Pol ersetzen.** Bei Wortwiederholung ist der Reflex, das *erste*, prominentere Vorkommen zu tauschen. Oft ist die unauffälligere Lösung, das *zweite* stehen zu lassen und das erste umzubauen - oder umgekehrt. Beide Richtungen prüfen, die mit weniger Kollateralschaden gewinnt.
+- **Den richtigen Pol ersetzen.** Bei Wortwiederholung ist der Reflex, das *erste*, prominentere Vorkommen zu tauschen. Oft ist die unauffälligere Lösung, das *zweite* stehen zu lassen und das erste umzubauen, oder umgekehrt. Beide Richtungen prüfen, die mit weniger Kollateralschaden gewinnt.
 
 ---
 ## Szenenliste-Diagnose
 
-Vor dem ersten Lektorat eine Tabelle aller Szenen führen - Spalten: Szenennummer, POV, Ziel der Figur, Konflikt, Ergebnis, Funktion im Plot.
+Vor dem ersten Lektorat eine Tabelle aller Szenen führen. Spalten: Szenennummer, POV, Ziel der Figur, Konflikt, Ergebnis, Funktion im Plot.
 
 Das Ergebnis liest sich oft erschreckend. Szenen ohne Konflikt fallen sofort auf. Szenen ohne Ergebnis (die Lage am Ende ist gleich wie am Anfang) werden sichtbar. Szenen ohne Plot-Funktion outen sich.
 
@@ -67,7 +67,7 @@ Alternative zur phasen-orientierten Tabelle: Pro Durchgang ein definiertes Ziel,
 | **5. Stil-Pass** | Satzrhythmus, Verbenschärfe, Stilregeln. |
 | **6. Korrektur** | Rechtschreibung, Zeichensetzung. |
 
-Durchgänge können kombiniert werden, wenn das Manuskript stabil ist. Bei größeren Schwächen lohnen getrennte Pässe - ein Lektorat, das alles gleichzeitig versucht, sieht nichts richtig.
+Durchgänge können kombiniert werden, wenn das Manuskript stabil ist. Bei größeren Schwächen lohnen getrennte Pässe. Ein Lektorat, das alles gleichzeitig versucht, sieht nichts richtig.
 
 Sandersons System ergänzt die phasen-orientierte Tabelle, ersetzt sie nicht. Phasen sortieren nach Schadenstiefe, Pässe nach Thema.
 
@@ -78,7 +78,7 @@ Sandersons System ergänzt die phasen-orientierte Tabelle, ersetzt sie nicht. Ph
 
 Eigener Durchgang vor der Korrektur. Augenfarben, Namen, Verwandtschaftsverhältnisse, Verletzungen, Zeitlinien, Wochentage, Wetter, Kleidung über Szenen hinweg.
 
-Praktisch: Eine Tabelle führen - Figur, Augenfarbe, Haarfarbe, Größe, Marken (Narben, Tattoos), zentrale Lebensdaten. Bei Welt-Elementen: Magieregeln, Technologiestand, Geographie.
+Praktisch: Eine Tabelle führen: Figur, Augenfarbe, Haarfarbe, Größe, Marken (Narben, Tattoos), zentrale Lebensdaten. Bei Welt-Elementen: Magieregeln, Technologiestand, Geographie.
 
 Häufigste Fehler im Erstentwurf: eine Verletzung in Szene 12, die in Szene 14 verschwunden ist. Eine Reise, die laut Akt I drei Tage dauert und in Akt II in einem Tag erledigt wird. Ein Bruder, der in Kapitel 3 älter ist und in Kapitel 18 jünger.
 
@@ -98,24 +98,24 @@ Der Sensitivity Reader bewertet, der Autor entscheidet. Nicht jede Anmerkung mus
 ---
 ## Digitale Hilfsmittel
 
-- **Duden-Mentor / LanguageTool** - Rechtschreibung und Stil (Deutsch)
-- **Grammarly** - Englisch
-- **Microsoft Word / LibreOffice** - Eingebaute Korrekturhilfen
-- **Scrivener** - Manuskriptverwaltung, Szenenstruktur, Recherche-Ablage
-- **ProWritingAid** - Stilanalyse
+- **Duden-Mentor / LanguageTool:** Rechtschreibung und Stil (Deutsch)
+- **Grammarly:** Englisch
+- **Microsoft Word / LibreOffice:** Eingebaute Korrekturhilfen
+- **Scrivener:** Manuskriptverwaltung, Szenenstruktur, Recherche-Ablage
+- **ProWritingAid:** Stilanalyse
 
 ---
 ## Feedback einholen
 
-1. **Beta-Leser** - Erste Leser aus der Zielgruppe, die ehrliches inhaltliches Feedback geben.
-2. **Schreibgruppe** - Regelmäßiger Austausch mit anderen Autoren.
-3. **Professionelles Lektorat** - Erst nach mehreren Eigenüberarbeitungen sinnvoll.
+1. **Beta-Leser:** Erste Leser aus der Zielgruppe, die ehrliches inhaltliches Feedback geben.
+2. **Schreibgruppe:** Regelmäßiger Austausch mit anderen Autoren.
+3. **Professionelles Lektorat:** Erst nach mehreren Eigenüberarbeitungen sinnvoll.
 
-**Wichtig beim Feedback:** Nicht jede Kritik annehmen. Muster erkennen - wenn mehrere unabhängige Leser dasselbe stört, ist es ein echtes Problem.
+**Wichtig beim Feedback:** Nicht jede Kritik annehmen. Muster erkennen: Wenn mehrere unabhängige Leser dasselbe stört, ist es ein echtes Problem.
 
-**Feedback sortieren - operativ.** Tabelle führen, jede Rückmeldung als Zeile, Spalte für jeden Leser. Wenn drei Beta-Leser unabhängig denselben Punkt nennen, ist es ein Strukturproblem. Wenn nur einer es nennt, kann es Geschmack sein. Die Diagonale (ein Leser sieht das Problem, andere widersprechen explizit) ist die schwierigste Lage. Eigene Position prüfen, eine vierte Meinung holen.
+**Feedback sortieren, operativ.** Tabelle führen, jede Rückmeldung als Zeile, Spalte für jeden Leser. Wenn drei Beta-Leser unabhängig denselben Punkt nennen, ist es ein Strukturproblem. Wenn nur einer es nennt, kann es Geschmack sein. Die Diagonale (ein Leser sieht das Problem, andere widersprechen explizit) ist die schwierigste Lage. Eigene Position prüfen, eine vierte Meinung holen.
 
 Die Lösung, die ein Beta-Leser vorschlägt, ist fast immer falsch. Die Stelle, an der er stolpert, ist fast immer richtig erkannt. Auf das Problem hören, nicht auf den Lösungsvorschlag.
 
 > „Wenn ein Leser sagt, etwas stimmt nicht, hat er fast immer recht. Wenn er sagt, was zu tun ist, hat er fast immer unrecht."
-> - Neil Gaiman
+> *Neil Gaiman*
