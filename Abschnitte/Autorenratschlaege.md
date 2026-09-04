@@ -8,9 +8,9 @@
 
 > „Schreib mit geschlossener Tür. Überarbeite mit offener Tür."
 
-> „Kill your darlings — auch wenn es dein egozentrisches kleines Schreiberherz bricht."
+> „Kill your darlings, auch wenn es dein egozentrisches kleines Schreiberherz bricht."
 
-> „Der erste Entwurf eines Buches — auch eines langen — sollte nicht länger als drei Monate dauern."
+> „Der erste Entwurf eines Buches, auch eines langen, sollte nicht länger als drei Monate dauern."
 
 Kernprinzip: **Disziplin über Inspiration.** Täglich schreiben, nicht auf Musen warten.
 
@@ -24,9 +24,9 @@ Kernprinzip: **Disziplin über Inspiration.** Täglich schreiben, nicht auf Muse
 
 > „Schreib betrunken, überarbeite nüchtern." *(zugschr., Prinzip: Erst loslassen, dann filtern)*
 
-Kernprinzip: **Reduktion.** Das Eisberg-Prinzip — 7/8 der Geschichte bleiben unsichtbar, aber das Fundament trägt.
+Kernprinzip: **Reduktion.** Das Eisberg-Prinzip: 7/8 der Geschichte bleiben unsichtbar, aber das Fundament trägt.
 
-*Quelle: Ernest Hemingway, Death in the Afternoon (1932) — Eisberg-Theorie; Zitate aus Interviews und Essays*
+*Quelle: Ernest Hemingway, Death in the Afternoon (1932), Eisberg-Theorie; Zitate aus Interviews und Essays*
 
 ---
 
@@ -34,9 +34,9 @@ Kernprinzip: **Reduktion.** Das Eisberg-Prinzip — 7/8 der Geschichte bleiben u
 
 > „Wenn du im ersten Akt ein Gewehr an die Wand hängst, muss es im dritten Akt schießen."
 
-Kernprinzip: **Tschechows Gewehr** — Jedes Element der Geschichte muss seine Funktion erfüllen. Nichts ist Dekoration.
+Kernprinzip: **Tschechows Gewehr.** Jedes Element der Geschichte muss seine Funktion erfüllen. Nichts ist Dekoration.
 
-*Quelle: S. Shchukin, Memoirs (1911) — erste schriftliche Überlieferung des Zitats*
+*Quelle: S. Shchukin, Memoirs (1911), erste schriftliche Überlieferung des Zitats*
 
 ---
 
@@ -46,7 +46,7 @@ Sechs Regeln für klares Schreiben:
 
 1. Verwende niemals eine lange Metapher, Gleichnis oder andere Redefigur, wenn du sie in gedruckten Büchern gesehen hast.
 2. Verwende niemals ein langes Wort, wo ein kurzes genügt.
-3. Wenn es möglich ist, ein Wort zu streichen — streiche es.
+3. Wenn es möglich ist, ein Wort zu streichen, streiche es.
 4. Verwende niemals das Passiv, wo du das Aktiv nutzen kannst.
 5. Verwende niemals eine ausländische Phrase, ein wissenschaftliches Wort oder Jargon, wenn es ein alltägliches Äquivalent gibt.
 6. Breche jede dieser Regeln, bevor du etwas Barbarisches sagst.
@@ -102,7 +102,7 @@ Acht Regeln des Geschichtenerzählens:
 
 Sandersons Lehre ist die operative Schule der modernen Genrebelletristik. Drei Konzepte stechen heraus:
 
-**Promise, Progress, Payoff.** Jede Geschichte verspricht etwas — Genre, Ton, Konflikt. Sie zeigt Fortschritt auf dieses Versprechen. Sie löst es ein. Wer im Krimi anfängt und im Liebesroman endet, hat das Versprechen gebrochen.
+**Promise, Progress, Payoff.** Jede Geschichte verspricht etwas: Genre, Ton, Konflikt. Sie zeigt Fortschritt auf dieses Versprechen. Sie löst es ein. Wer im Krimi anfängt und im Liebesroman endet, hat das Versprechen gebrochen.
 
 **Die drei Achsen der Figur.** Likability, Proaktivität, Kompetenz. Eine Figur muss nicht alle drei haben, aber mindestens eine stark, sonst hält der Leser nicht.
 
@@ -138,7 +138,7 @@ Kernthemen:
 
 > „Schreib die erste Fassung mit dem Herzen. Überarbeite mit dem Kopf. Der erste Schritt im Schreiben ist nicht Denken, sondern Fühlen."
 
-Kernprinzip: **Energie über Korrektheit.** Bradbury empfahl, jeden Tag eine Kurzgeschichte anzufangen, eine pro Woche fertigzustellen — fünfzig pro Jahr. „Mindestens eine davon wird nicht furchtbar sein." Volume schlägt Vorsicht.
+Kernprinzip: **Energie über Korrektheit.** Bradbury empfahl, jeden Tag eine Kurzgeschichte anzufangen, eine pro Woche fertigzustellen, fünfzig pro Jahr. „Mindestens eine davon wird nicht furchtbar sein." Volume schlägt Vorsicht.
 
 *Quelle: Ray Bradbury, Zen in the Art of Writing (1990)*
 
@@ -150,11 +150,11 @@ Der deutsche Klassiker der Dramaturgie. Freytags Pyramide ist die kontinentaleur
 
 **Fünf Stufen:**
 
-1. **Exposition** — Einführung von Figuren, Welt, Ausgangslage.
-2. **Steigende Handlung** — Der Konflikt entwickelt sich, der Held verfolgt sein Ziel.
-3. **Höhepunkt** — Der entscheidende Moment, oft im dritten Akt eines fünfaktigen Dramas.
-4. **Fallende Handlung** — Die Konsequenzen entfalten sich, retardierende Momente erzeugen letzte Spannung.
-5. **Katastrophe oder Auflösung** — Im Trauerspiel der Untergang, in der Komödie die Klärung.
+1. **Exposition:** Einführung von Figuren, Welt, Ausgangslage.
+2. **Steigende Handlung:** Der Konflikt entwickelt sich, der Held verfolgt sein Ziel.
+3. **Höhepunkt:** Der entscheidende Moment, oft im dritten Akt eines fünfaktigen Dramas.
+4. **Fallende Handlung:** Die Konsequenzen entfalten sich, retardierende Momente erzeugen letzte Spannung.
+5. **Katastrophe oder Auflösung:** Im Trauerspiel der Untergang, in der Komödie die Klärung.
 
 Freytag analysierte das Drama, nicht den Roman. Sein Modell ist symmetrischer als die moderne Drei-Akt-Struktur, deren Klimax weiter hinten sitzt. Für klassische Stoffe und für die Analyse deutscher Klassik (Schiller, Lessing, Hebbel) bleibt Freytag der Maßstab.
 
@@ -166,4 +166,4 @@ Freytag analysierte das Drama, nicht den Roman. Sein Modell ist symmetrischer al
 
 > **Lesen ist das Handwerk lernen.** Jeder Autor, der nicht liest, ist wie ein Schlosser, der sich keine Schlösser anschaut.
 
-> **Schreiben lernt man nur durch Schreiben.** Nicht durch Bücher darüber — sondern durch die Seiten.
+> **Schreiben lernt man nur durch Schreiben.** Nicht durch Bücher darüber, sondern durch die Seiten.
