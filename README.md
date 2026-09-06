@@ -10,7 +10,7 @@ Einstiegspunkt ist die Map of Content [`Schreibmethoden.md`](Schreibmethoden.md)
 
 | Datei | Zweck |
 | --- | --- |
-| [`Abschnitte/Stilregeln.md`](Abschnitte/Stilregeln.md) | **Primärmaßstab.** Verbotene Muster, Anti-KI-Prosa, Adverbien, Filterwörter, Schwächungs-Verben, Tautologien, positive Vorgaben, Perspektivtreue, Dialog mit Tiefe, Autorenstimme (Stilprofil aus eigenen Texten), Selbstprüfung. |
+| [`Abschnitte/Stilregeln.md`](Abschnitte/Stilregeln.md) | **Primärmaßstab.** Geltungsbereich, verbotene Muster, Anti-KI-Prosa, Auszeichnung und Gliederung, Adverbien, Filterwörter, Schwächungs-Verben, Tautologien, positive Vorgaben, Perspektivtreue, Dialog mit Tiefe, Körper und Geste, Autorenstimme (Stilprofil aus eigenen Texten), Selbstprüfung. |
 | [`Abschnitte/Schreibtechniken.md`](Abschnitte/Schreibtechniken.md) | Show Don't Tell, sensorisches Schreiben, In Medias Res, POV und Fokalisierung, Spannungsaufbau, Dialog, Stilmittel, Clustern. |
 | [`Abschnitte/Charaktere.md`](Abschnitte/Charaktere.md) | Protagonist, Ghost, Wollen/Brauchen, Antagonist, Charakterbogen-Typen, Charakter-Voice, Foil-Charaktere, Backstory drip-feeding. |
 | [`Abschnitte/Plotstrukturen.md`](Abschnitte/Plotstrukturen.md) | Heldenreise, Drei-Akt-Struktur mit Pinch Points, Midpoint, Try-Fail-Cycles, Subplots, Setup & Payoff, Schneeflockenmethode, W-Fragen-Modell. |
@@ -21,7 +21,7 @@ Einstiegspunkt ist die Map of Content [`Schreibmethoden.md`](Schreibmethoden.md)
 
 ## Anwendung
 
-Vor jedem Lektorat oder jeder Textproduktion gilt: `Stilregeln.md` ist gelesen oder bekannt. Sie ist kein Stil-Vorschlag, sondern eine Verbotsliste gegen die statistischen Standardmuster von KI-Prosa. Bei Charakterarbeit ist `Charaktere.md` zu lesen, bevor Charakterblätter angelegt oder beurteilt werden; bei Struktur-Fragen ist `Plotstrukturen.md` die erste Anlaufstelle.
+Vor jedem Lektorat oder jeder Textproduktion gilt: `Stilregeln.md` ist gelesen oder bekannt. Sie ist kein Stil-Vorschlag, sondern eine Verbotsliste gegen die statistischen Standardmuster von KI-Prosa. Ihr Geltungsbereich reicht über die Prosa hinaus und schließt Notizen, Kommentare, Commit-Nachrichten und Antworten im Gespräch ein; ausgenommen ist allein die Form von Nachschlagewerken und Regelkatalogen. Bei Charakterarbeit ist `Charaktere.md` zu lesen, bevor Charakterblätter angelegt oder beurteilt werden; bei Struktur-Fragen ist `Plotstrukturen.md` die erste Anlaufstelle.
 
 Priorität bei Konflikt: `Stilregeln.md` > `Charaktere.md` / `Schreibtechniken.md` > alle anderen Dateien. Die Stilregeln sind die härteste Constraint.
 

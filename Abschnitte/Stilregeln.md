@@ -4,6 +4,16 @@ Diese Regeln zielen auf Text, der nicht nach KI klingt. Sie sind keine Geschmack
 
 ---
 
+## Geltungsbereich
+
+Die Regeln gelten für jede Prosa: Kapitel, Szenen, narrative Lore, Exposés und Vorworte. Sie gelten ebenso für alles, was daneben entsteht, für Notizen, Kommentare, Commit-Nachrichten und Antworten im Gespräch. Wer in der Prosa gegen die Maschinenschablone schreibt und in der Notiz darunter zurückfällt, hat sie nicht abgelegt, sondern nur umgezogen.
+
+Ausgenommen ist allein die Form von Nachschlagewerken und Regelkatalogen, diese Datei eingeschlossen. Sie dürfen gliedern, aufzählen und Begriffe fett setzen, weil sie zum Nachschlagen gebaut sind und nicht zum Lesen am Stück. Die Ausnahme deckt die Form und nicht den Inhalt: Verbotene Vokabeln, Bedeutungs-Aufblähung und Floskel-Schlüsse bleiben auch im Regelwerk verboten.
+
+Der Ton folgt dem Anlass. Eine beiläufige Frage bekommt eine beiläufige Antwort und keine gegliederte Abhandlung. Einschränkungen, Sicherheitshinweise und Relativierungen, nach denen niemand gefragt hat, bleiben draußen. Umgekehrt heißt beiläufig nicht steif: Verschleifungen wie „gibt's" oder „hab ich" sind erlaubt, wo der Ton sie trägt, weil geschriebene Sprache nicht förmlicher sein muss als gesprochene.
+
+---
+
 ## Ersatzlos streichen
 
 Was gegen eine Regel dieser Datei verstößt, wird gestrichen und nicht ersetzt. Kein Umbau, der denselben Takt in erlaubten Wörtern wiederholt, keine abgeschwächte Fassung an derselben Stelle. Der Absatz ist danach kürzer. Das ist das Ergebnis.
@@ -16,21 +26,35 @@ Fehlt nach dem Streichen wirklich eine Information, gehört sie in einen eigenen
 
 ## Verbotene Muster
 
-**Keine „Nicht nur X, sondern Y"-Konstruktionen.** Verwandte Formen wie **„Nicht X. Nicht Y, sondern Z"** sind eingeschlossen. Diese antithetischen Schablonen sind verboten. Wenn ein Gegensatz wirklich besteht, formuliere ihn anders. Wenn keiner besteht, lass es weg.
+**Keine „Nicht nur X, sondern Y"-Konstruktionen.** Eingeschlossen sind alle Verwandten: **„Nicht X. Nicht Y, sondern Z"**, „Es ist nicht nur X, es ist Y", „Hier geht es nicht um X. Es geht um Y.", „Kein X. Kein Y. Nur Z." Diese antithetischen Schablonen ahmen Einsicht nach und liefern keine. Wenn ein Gegensatz wirklich besteht, formuliere ihn anders. Wenn keiner besteht, lass es weg.
 
 **Keine zwanghaften Dreierlisten.** Aufzählungen müssen nicht aus drei Elementen bestehen, nur weil das rhythmisch klingt. Zwei oder vier Punkte sind oft ehrlicher. Wenn drei Dinge wirklich drei Dinge sind, dann drei. Sonst nicht.
 
 **Keine Gedankenstriche.** Geviertstrich (Em-Dash) und Halbgeviertstrich (En-Dash) kommen in keinem Text vor, auch nicht in Überschriften, Zitaten, Listen oder Zahlenspannen. Das einzige zulässige Strichzeichen ist der einfache Bindestrich. Er steht in Komposita, in Zahlenspannen wie „2-4 Wochen" und, wo ein Gedankenstrich wirklich unverzichtbar ist, an dessen Stelle. Unverzichtbar ist er fast nie: Was früher ein Gedankenstrich trennte, trennt jetzt Komma, Doppelpunkt, Punkt oder ein neuer Satz. Ein Einschub, der so keinen Platz findet, war zu lang.
 
-**Keine Hedging-Floskeln.** Streiche: „Es ist wichtig zu beachten, dass", „Man sollte erwähnen, dass", „Letzten Endes", „Am Ende des Tages", „Es bleibt festzuhalten". Wenn etwas wichtig ist, schreib es einfach hin.
+**Keine Auslassungspunkte.** Drei Punkte stehen dort, wo eine Figur mitten im Satz wirklich abbricht, weil ihr das Wort fehlt oder weil jemand ihr hineinredet. Als Andeutungszeichen im Erzähltext sind sie verboten. Sie versprechen eine Bedeutung, die der Text nicht einlöst, und sie kosten nichts, was ihre Beliebtheit erklärt. Wo „…" steht, gehört der ausgeschriebene Gedanke hin oder ein Punkt.
 
-**Verbotene Lieblingsvokabeln.** Vermeide: *beleuchten, facettenreich, vielschichtig, unterstreichen, im Spannungsfeld, Tapestry, navigieren* (im übertragenen Sinn), *robust* (außerhalb technischer Kontexte), *pivotal, delve, leverage*. Ebenso die Aufwertungs- und Hochglanzvokabeln, die in KI-Texten seit 2023 messbar häufiger wurden: *nahtlos, entscheidend/zentral* (als bloße Bedeutungssteigerung), *ein (wahres) Zeugnis für, unterstreicht die Bedeutung, spielt eine (zentrale/wichtige) Rolle, atemberaubend, malerisch, pulsierend, reiches Erbe / reiche Kultur, im Bereich (von), wenn es um … geht, letzten Endes*. Diese Wörter sind Marker für KI-Prosa.
+**Keine Hedging-Floskeln.** Streiche: „Es ist wichtig zu beachten, dass", „Es sei angemerkt, dass", „Man sollte erwähnen, dass", „Man kann gar nicht genug betonen, dass", „Letzten Endes", „Am Ende des Tages", „Es bleibt festzuhalten", „Einer der wichtigsten …", „Im Kern", „Wenn es um … geht", „Hier kommt X ins Spiel". Wenn etwas wichtig ist, schreib es einfach hin.
+
+**Keine Bekräftigungs- und Einräumungspartikeln.** „In der Tat", „gewiss", „zweifellos", „freilich", „wohlgemerkt", „mitnichten", „wenngleich", „obschon". Sie sind die deutschen Geschwister von *indeed*, *certainly* und *albeit* und tun dasselbe: Sie legen einer Aussage Nachdruck bei, den sie selbst nicht hat, oder räumen etwas ein, das niemand bestritten hatte. Streichen. Bleibt der Satz danach schwach, war nicht die Partikel das Problem.
+
+**Verbotene Lieblingsvokabeln.** Vermeide: *beleuchten, eintauchen (in), facettenreich, vielschichtig, nuanciert* (als leeres Lob), *unterstreichen, untermauern, aufschlüsseln, nutzbar machen, Licht werfen auf, den Weg ebnen, im Spannungsfeld, Tapestry, navigieren* (im übertragenen Sinn), *robust* (außerhalb technischer Kontexte), *umfassend, ganzheitlich, pivotal, delve, leverage*. Ebenso die Aufwertungs- und Hochglanzvokabeln, die in KI-Texten seit 2023 messbar häufiger wurden: *nahtlos, bahnbrechend, wegweisend, transformativ, innovativ, hochmodern, entscheidend/zentral* (als bloße Bedeutungssteigerung), *ein (wahres) Zeugnis für, unterstreicht die Bedeutung, spielt eine (zentrale/wichtige) Rolle, atemberaubend, malerisch, pulsierend, reiches Erbe / reiche Kultur, im Bereich (von), im Reich der, die Landschaft der* (im übertragenen Sinn), *wenn es um … geht, letzten Endes*. Diese Wörter sind Marker für KI-Prosa.
 
 **Keine Sandwich-Struktur.** Nicht erst ankündigen, was kommt, dann sagen, dann zusammenfassen, was gesagt wurde. Steig direkt ein, hör auf, wenn du fertig bist.
 
 **Keine Pseudo-Balance.** Nicht jede Behauptung braucht ein „andererseits gibt es auch Stimmen, die…". Wenn echte Gegenpositionen existieren und relevant sind, gehören sie rein. Sonst ist das nur Feigheit.
 
 **Kein Sycophancy-Einstieg.** Niemals mit „Tolle Frage!", „Spannendes Thema!" oder ähnlichem beginnen. Direkt zur Sache.
+
+**Kein Vorspann.** „Schauen wir uns das an", „Lass uns eintauchen", „Gehen wir das der Reihe nach durch", „Zunächst einmal", „Kommen wir nun zu": Die Ankündigung, dass gleich etwas kommt, ist kein Anfang, sondern Räuspern. Der erste Satz gehört der Sache.
+
+**Kein Weltlage-Aufschlag.** „In der heutigen schnelllebigen Welt", „In einer Zeit, in der", „Seit jeher fasziniert den Menschen": Der große Rundumblick vor dem eigentlichen Satz ist Füllmaterial. Beginnt ein Text so, wird der erste Satz gestrichen, und der zweite ist der erste.
+
+**Die Frage nicht zurückgeben.** Eine Antwort wiederholt nicht erst die Frage in eigenen Worten („Du möchtest also wissen, wie …"). Sie antwortet.
+
+**Keine Frage mit nachgelieferter Antwort.** „Und was hieß das für die Kompanie? Nichts Gutes." Die Frage ist keine, sie ist der Trommelwirbel vor der Aussage. Entweder steht die Aussage allein da, oder die Frage bleibt offen, weil sie niemand beantworten kann. Das Paar ist verboten, im Erzähltext wie im Sachtext (für die Figurenrede vgl. „Dialog: gesprochen, nicht vorgetragen").
+
+**Keine Begeisterungsvokabeln.** „Spannend", „faszinierend", „beeindruckend", „kraftvoll", „unglaublich" als Bewertung des eigenen Gegenstands. Wenn die Sache trägt, merkt der Leser es ohne Ansage.
 
 **Keine Symmetrie-Zwänge.** Sätze dürfen unterschiedlich lang sein. Kurze Sätze nach langen erzeugen Rhythmus. Parallele Strukturen sparsam einsetzen, sonst klingt es wie Rede.
 
@@ -43,6 +67,8 @@ Fehlt nach dem Streichen wirklich eine Information, gehört sie in einen eigenen
 **Keine Abstraktion, wo Konkretes geht.** „Sie warf die Tasse gegen die Wand" statt „Es kam zu emotionalen Spannungen". Aktive Verben statt nominalisierter Wendungen. „Sie entschied" statt „Es kam zu einer Entscheidung".
 
 **Adverbien sparsam.** „-lich"-Verstärker („leise", „langsam", „vorsichtig") prüfen, ob das Verb sie schon enthält. „Sie flüsterte leise" ist redundant. Wenn das Adverb das Verb verändert, behalten. Wenn es es bloß wiederholt, streichen. Stephen King: „Der Weg zur Hölle ist mit Adverbien gepflastert."
+
+**Ein Adjektiv, nicht zwei.** „Dunkel und grüblerisch", „laut und dreist", „schnell und wendig": Zwei Wörter aus demselben Feld addieren sich nicht, sie verwässern einander. Das stärkere bleibt stehen, das andere fällt. Ein Paar ist nur dann richtig, wenn die beiden in verschiedene Richtungen zeigen und der Widerspruch die Sache ausmacht, etwa „höflich und kalt".
 
 **Filterwörter raus.** „Sah", „hörte", „bemerkte", „dachte", „fühlte", „spürte" schaffen eine Schicht zwischen Leser und Wahrnehmung. Statt „Er sah, wie sie ging" → „Sie ging". Statt „Sie spürte die Kälte" → „Die Kälte kroch durch ihren Mantel". Filterwörter sind nur dann nötig, wenn die Wahrnehmung selbst zur Handlung gehört, etwa wenn jemand einen anderen beobachtet, der nicht zurückblickt.
 
@@ -68,11 +94,31 @@ Wird nicht verwendet. Generisches Maskulinum.
 
 ---
 
+## Auszeichnung und Gliederung
+
+**Keine Listen in der Prosa.** Aufzählungspunkte, Nummerierungen und Tabellen haben in Erzähltext und in jedem Fließtext nichts zu suchen, der nicht ausdrücklich Anleitung oder Nachschlagewerk ist. Was aufgezählt werden wollte, wird zum Satz: keine drei Spiegelstriche mit den Vorräten der Kompanie, sondern der Satz, der sagt, was noch da ist und wie lange es reicht.
+
+**Keine Zwischenüberschriften in der Prosa.** Ein Kapitel gliedert sich über Absätze und über den Szenentrenner. Wer eine Überschrift braucht, um den Leser durch die eigene Szene zu führen, hat die Szene nicht gebaut.
+
+**Kein „Fettbegriff: Erklärsatz".** Die Reihe aus fett gesetztem Stichwort, Doppelpunkt und einem Satz Erklärung ist das am leichtesten erkennbare Maschinenmuster überhaupt. In Prosa und in Antworten ist sie verboten; was so aufgereiht werden wollte, wird zu Absätzen. Regelkataloge wie diese Datei sind ausgenommen (vgl. „Geltungsbereich"), und auch dort steht hinter der fetten Zeile ein ausgeführter Gedanke und kein Ein-Satz-Etikett.
+
+**Fett und Kursiv fast nie.** Höchstens eine Auszeichnung auf fünfhundert Wörter, und niemals beide auf demselben Wort. Kursiv trägt Werktitel, fremdsprachige Wörter und in Maßen die Betonung in direkter Rede. Fett gehört in Regelwerke und Charakterblätter, nicht in die Geschichte. Betonung entsteht aus Wortwahl und Satzstellung; wo der Satz sie nicht trägt, holt die Formatierung sie auch nicht.
+
+**Nicht überformatieren.** Auch außerhalb der Prosa gilt: Wenn ein Absatz reicht, ist die gegliederte Fassung mit Überschriften und Kästen schlechter und nicht gründlicher.
+
+---
+
 ## Positive Vorgaben
 
 Konkrete Beispiele statt abstrakter Beschreibungen. Wenn du eine These hast, illustriere sie mit einem Fall, einer Zahl, einer Szene.
 
 Reibung zulassen. Spitze Beobachtungen, klare Urteile, eine erkennbare Haltung. Texte dürfen Kanten haben.
+
+Behauptung zuerst, Beleg danach. Der Punkt steht im ersten Satz, die Begründung folgt. Ein Text, der sich erst durch Kontext arbeitet und die Aussage ans Ende legt, zwingt den Leser, die Reihenfolge selbst umzudrehen.
+
+Namen und Zahlen statt Andeutung. Konkretes ist nachprüfbar und bleibt haften, Allgemeines ist beides nicht. „Zwei Lanzen aus dem Kurita-Sektor" statt „eine beachtliche Streitmacht".
+
+Dem Leser das Gewicht überlassen. Was wichtig ist, zeigt sich an dem, was der Text zeigt, und wird nicht als „bedeutend", „wesentlich" oder „entscheidend" etikettiert. Der Leser erkennt es selbst; das ist seine Arbeit und nicht deine.
 
 Variation in Satzlänge und Struktur. Lange erklärende Sätze neben kurzen. Hauptsätze neben verschachtelten. Kein gleichförmiger Rhythmus.
 
@@ -108,6 +154,8 @@ Die Verkürzungs-Verbote dieser Datei (Filterwörter, Adverbien, Schwächungsver
 
 **Einwortsätze sind Pointen, keine Bausteine.** „Blut." „Genug." „Sog." wirken stark, weil sie selten sind. Höchstens einer pro Szene, höchstens zwei pro Kapitel, sonst wird es manieriert.
 
+**Keine Fragment-Kaskade.** „Sie wartete. Und wartete. Nichts." Die Folge abgehackter Bruchstücke ist ein Fertigbauteil, das in jeden Text passt und deshalb in keinen gehört. Sie behauptet Anspannung, statt sie herzustellen. Wenn das Warten lang ist, zeig, was in der Zeit geschieht: das Geräusch, das nicht kommt, die Hand, die zum zweiten Mal an den Riemen geht. Satzlänge folgt dem Inhalt und nie dem gewünschten Effekt.
+
 **Show heißt nicht Aufzählung.** Eine Folge reiner Beobachtungssätze („Sie sah. Sie ging. Sie hielt inne.") ist kein Show, sondern Telegramm. Wahrnehmung darf in Subordination eingebettet sein, ohne dass sie zur Tell-Erklärung wird. „Sie hielt inne, als sie den Schatten an der Wand wachsen sah" ist Show *und* Bewegung.
 
 **Variation, nicht Verkürzung.** Die positive Vorgabe „Variation in Satzlänge" weiter oben ist hier verbindlich. Mindestens ein Verhältnis von etwa 1:2 zwischen kurzen (unter zehn Wörtern) und langen Sätzen (über fünfzehn Wörtern) pro Absatz. Reine Kurzsatz-Absätze sind Telegramm; reine Langsatz-Absätze sind Geschwurbel. Beides falsch.
@@ -135,6 +183,8 @@ Tiefer zu psychischer Distanz, Slipping POV und Fokalisierung: [[Schreibtechnike
 Der Abschnitt „Geschichte statt Chronik" verlangt Dialog. Damit Dialog nicht bloß Information schiebt, gelten zusätzlich vier Regeln.
 
 **Jede Replik trägt Neues.** Keine Figur sagt zweimal dasselbe in anderen Worten. Hat ein Charakter sein Leitmotiv ausgesprochen, etwa den Glauben an einen vorbestimmten Plan, bringt die nächste Replik eine Drehung: Er deutet den Gegenüber ins Muster, statt das Credo zu wiederholen.
+
+**Kein Spiegel-Dialog.** A sagt etwas, B gibt es mit anderen Worten zurück, A bestätigt. „Wir haben keine Zeit." „Zeit ist genau das, was uns fehlt." Das ist Wechselrede ohne Bewegung. Die Antwort greift woanders an: Sie widerspricht, sie weicht aus, sie beantwortet eine andere Frage als die gestellte, oder sie bleibt aus und die Figur tut stattdessen etwas. Wer als Antwort nur die Umformulierung findet, hat der zweiten Figur nichts zu sagen gegeben.
 
 **Reibung statt Glätte.** Entscheidungen, Angebote und Bündnisse fallen nicht reibungslos zu. Ein Pakt, der einfach „vorgeschlagen und angenommen" wird, ist Chronik. Lass ihn aus Charakter entspringen, aus Eigennutz, Neugier, Wiedererkennen oder Misstrauen, und benenne den Preis: „Mein Schwert gegen die Ratten, und meine Neugier für das, was du suchst."
 
@@ -164,6 +214,10 @@ Die Verbote oben treffen die platte KI-Prosa. Es gibt eine zweite Sorte, die das
 - Besser: „Das ist kein Schutz. Das ist das Gegenteil."
 
 **Höchstens ein Bild pro Szene, und ein einfaches.** Metaphern nicht stapeln. Wenn in einem kurzen Abschnitt Genick, Wolf, Bilanz und ein wandernder Lichtkreis stehen, ist es zu viel. Ein Bild nur an einem echten Höhepunkt, sonst Klartext. Vgl. „Stilmittel zeigen sich" in [[Schreibtechniken]].
+
+**Keine Katalog-Metaphern.** Bilder, die in jedem zweiten Text stehen, sind keine Bilder mehr: „eine Sinfonie aus", „ein Geflecht aus", „ein Mosaik aus", „ein empfindliches Gleichgewicht", „ein Zeugnis für", „eingebettet in", „im Herzen von", „ein Tanz aus". Sie klingen nach Sprache und zeigen nichts. Entweder das Bild stammt aus der Wahrnehmung dieser Figur an diesem Ort, oder es fällt weg und die Sache steht als Sache da.
+
+**Vergleiche müssen arbeiten.** Ein Vergleich ist richtig, wenn der Leser die Sache danach genauer sieht als vorher. Einer, der nur schmückt, verschiebt die Aufmerksamkeit vom Gegenstand auf den Autor. Prüfung: Was weiß der Leser nach dem Bild, das er vorher nicht wusste? Nichts, dann streichen.
 
 **Keine sichtbaren Konstruktions-Tricks.** Rahmungen, Symmetrien und Klammern, die der Leser arbeiten sieht, fliegen raus. Einen Gegenstand am Anfang weglegen und am Ende wieder aufnehmen, damit es „rahmt", ist so ein Trick. Man spürt ihn.
 
@@ -213,9 +267,9 @@ Ergänzung zu „Verbotene Muster". Diese Marker stammen aus Redaktions- und Det
 
 **Vage Zuschreibung.** „Man sagt", „viele glauben", „es ist bekannt, dass", „Studien zeigen": Wer genau? Wenn niemand Bestimmtes dahintersteht, streichen. In der Prosa gehört solches Wissen in eine Figur, die es sagt oder denkt, nicht in eine anonyme Erzähler-Instanz.
 
-**Partizip- und Anhängsel-Schwänze.** Das KI-Muster „Hauptsatz, dann angehängtes Partizip mit Deutung": „Er trat vor, wohl wissend, dass …", „…, ein stiller Beweis dafür, dass …", „…, was das Ganze umso schwerer machte", „…, was er nie zugegeben hätte". Diese Schwänze tun Tiefe kund, statt sie zu erzeugen. Mach daraus einen eigenen Satz oder streiche ihn. (Verwandt mit den Filterwörtern und der Über-Erklärung oben.)
+**Partizip- und Anhängsel-Schwänze.** Das KI-Muster „Hauptsatz, dann angehängtes Partizip mit Deutung": „Er trat vor, wohl wissend, dass …", „…, ein stiller Beweis dafür, dass …", „…, was das Ganze umso schwerer machte", „…, was er nie zugegeben hätte". Dazu die ausgeschriebene Deutungsvariante, die dem Leser das eben Gezeigte noch einmal erklärt: „…, was zeigte, wie sehr sie an ihm hing", „…, was bewies, dass er recht behalten hatte", „…, was umso überraschender war, weil …". Und die Bedeutungs-Etiketten aus dem Sachtext: „…, was die Bedeutung von … unterstreicht", „…, was den Bedarf an … deutlich macht", „…, was einen breiteren Trend zu … widerspiegelt", „…, was einen Wendepunkt markiert". Diese Schwänze tun Tiefe kund, statt sie zu erzeugen. Mach daraus einen eigenen Satz oder streiche ihn. (Verwandt mit den Filterwörtern und der Über-Erklärung oben.)
 
-**Übergangswort-Häufung.** „Zudem", „Darüber hinaus", „Folglich", „Somit", „Letztlich", „Dabei" sind einzeln legitim, gehäuft der Takt eines Aufsatz-Automaten. In Erzählprosa fast immer streichbar: Die Reihenfolge der Sätze trägt den Zusammenhang schon. (Nicht zu verwechseln mit den bindenden Konjunktionen aus „Atem und Rhythmus": „und", „aber", „während", „als" binden Bewegung, „Darüber hinaus" verwaltet nur.)
+**Übergangswort-Häufung.** „Zudem", „Darüber hinaus", „Folglich", „Somit", „Letztlich", „Dabei" sind einzeln legitim, gehäuft der Takt eines Aufsatz-Automaten. In Erzählprosa fast immer streichbar: Die Reihenfolge der Sätze trägt den Zusammenhang schon. Am Absatzanfang stehen sie nie. „Allerdings", „Dennoch", „Somit", „Daher", „Zudem" als erstes Wort eines Absatzes kleben ein Etikett auf einen Zusammenhang, den der Text selbst herstellen müsste. (Nicht zu verwechseln mit den bindenden Konjunktionen aus „Atem und Rhythmus": „und", „aber", „während", „als" binden Bewegung, „Darüber hinaus" verwaltet nur.)
 
 **Behauptung, dann sofort Erklärung.** Der Dauertakt „Aussage. Und das lag daran, dass …" / „X. Denn Y." Nicht jeder Satz braucht seine nachgeschobene Begründung. Setz die Aussage hin und lass sie stehen, oder zeig den Grund als Handlung. Wenn jeder Beat sich selbst erklärt, entsteht die gleichförmige, brave Textur, an der man die Maschine erkennt.
 
@@ -251,6 +305,22 @@ Eine eigene Falle, eng verwandt mit der geschwollenen Variante: Figurenrede, die
 **Idiolekt heißt anderer Takt, nicht anderes Kostüm.** Wenn zwei Figuren beide in Dreiklängen und Antithesen reden, unterscheiden sie sich nicht, auch mit verschiedenen Vokabeln nicht. Jede Figur braucht einen eigenen Satz-Rhythmus.
 
 **Test.** Würde ein Mensch das so am Küchentisch sagen, oder klingt es nach Bühne? Klingt es nach Bühne, umschreiben.
+
+---
+
+## Körper und Geste: gegen das Requisitenlager
+
+Nähe, Trauer und Zorn haben in maschineller Prosa einen festen Satz von Gesten, der unabhängig von Figur, Ort und Jahrhundert abgerufen wird. Man erkennt sie daran, dass sie zu jedem passen und deshalb keinen kennzeichnen.
+
+**Der Bestand, der gestrichen wird.** Stirnen, die aneinandergelegt werden. Der Ellbogen auf der Theke, das Kinn in der Hand. Vom Küssen geschwollene Lippen. Die Hand, die eine Strähne hinters Ohr streicht. Der Atem, der stockt, das Herz, das einen Schlag aussetzt, der Magen, der sich zusammenzieht, die Kehle, die eng wird. Alles, was „aufblüht", „aufkeimt" oder „ein Versprechen" ist.
+
+**Die Geste gehört dieser Figur in diesem Moment.** Ein MechWarrior nach vierzehn Stunden im Cockpit greift sich in den Nacken, weil der Neurohelm dort drückt. Wer seit Wochen zu wenig schläft, hält den Becher mit beiden Händen, damit das Zittern nicht auffällt. Solche Gesten kommen aus Beruf, Körper, Erschöpfung und Geschichte der Figur, und sie stehen in keinem Katalog.
+
+**Körperreaktionen konkret oder gar nicht.** Statt „ihr Herz raste" das, was von außen zu sehen wäre oder was die Figur wirklich merkt: der Puls im Ohr, der Riemen, den sie zu fest zieht, der Satz, den sie zum zweiten Mal anfängt. Findet sich nichts Konkretes, bleibt die Zeile weg. Die Szene trägt das Gefühl ohnehin, oder sie trägt es nicht.
+
+**Kein Gesten-Takt zwischen den Repliken.** Nicht nach jeder Replik ein Nicken, ein Seufzen, ein Blick zu Boden. Action Beats sind Werkzeug (vgl. „Geschichte statt Chronik"), kein Metronom. Zwei oder drei pro Szene, gesetzt dort, wo eine Pause oder eine Verortung nötig ist.
+
+**Erotik und Romanze ohne Requisiten.** Hier greift die Schablone am schnellsten, weil das Register wenige Vokabeln hat und die Maschine sie alle kennt. Was zwischen zwei Figuren geschieht, wird an einem Detail erzählt, das nur zu diesen beiden passt: die Narbe, über die einer nicht spricht, oder das falsche Wort in der fremden Sprache. Ohne solches Detail bleibt die Szene besser hinter der Tür.
 
 ---
 
@@ -297,3 +367,15 @@ Erste Probe: das Exposé zum RimWorld-Run „Duplicator-Erwachen" (September 202
 ## Selbstprüfung vor dem Abschicken
 
 Lies den Text einmal durch und frage dich: Klingt das nach jemandem, der etwas zu sagen hat, oder nach einem System, das einen Text produziert? Wenn Letzteres, neu schreiben.
+
+Die schärfere Fassung derselben Frage geht satzweise. Könnte dieser Satz so in einem beliebigen maschinell erzeugten Text zu einem beliebigen Thema stehen? Dann ist er nicht geschrieben, sondern abgerufen, und er wird ersetzt oder gestrichen. Hinter jedem Satz muss eine Entscheidung stehen, die jemand getroffen hat: dieses Wort statt des naheliegenden, diese Länge, dieses Detail und kein anderes.
+
+Vier Griffe finden das meiste.
+
+Laut lesen. Klingt ein Satz nach Pressemitteilung oder nach Klappentext, wird er umgeschrieben. Derselbe Test aus „Atem und Rhythmus" findet zugleich die fehlende Konjunktion und den zu langen Satz.
+
+Die Streichprobe. Nimm den Satz weg und lies den Absatz noch einmal. Fehlt danach eine Information, war der Satz nötig. Klingt der Absatz nur nüchterner, war er Dekoration, und er kommt nicht in überarbeiteter Form zurück (vgl. „Ersatzlos streichen").
+
+Die Doppelung suchen. Steht derselbe Gedanke zweimal in verschiedenen Worten, bleibt die bessere Fassung stehen und die andere fällt. Das gilt für den Absatz, für den Dialog und für den Text als Ganzes.
+
+Ersten und letzten Satz prüfen. Ist der erste ein Rundumblick auf die Weltlage, ein Räuspern oder die zurückgegebene Frage, wird er gestrichen, und der zweite ist der erste. Ist der letzte ein Fazit, eine Stimmungszeile oder ein Ausblick, kommt er weg; der Text endet auf der letzten Sachinformation.
