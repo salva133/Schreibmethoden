@@ -13,7 +13,7 @@ Bewährte Techniken, Strukturen und Strategien für das Schreiben. Primärmaßst
 
 ## Stil & Qualität
 
-- [[Abschnitte/Stilregeln|Stilregeln]]: Verbotene Muster, Anti-KI-Prosa, Adverbien, Filterwörter, Schwächungs-Verben, Tautologien, positive Vorgaben, Autorenstimme (Stilprofil aus eigenen Texten), Selbstprüfung
+- [[Abschnitte/Stilregeln|Stilregeln]]: Geltungsbereich, verbotene Muster, Anti-KI-Prosa, Auszeichnung und Gliederung (keine Listen, keine Zwischenüberschriften, kaum Fett und Kursiv), Adverbien, Filterwörter, Schwächungs-Verben, Tautologien, positive Vorgaben, Körper und Geste gegen das Requisitenlager, Autorenstimme (Stilprofil aus eigenen Texten), Selbstprüfung
 - [[Abschnitte/Schreibtechniken|Schreibtechniken]]: Show Don't Tell, wann Tell richtig ist, sensorisches Schreiben, In Medias Res, POV (psychische Distanz, Slipping POV, Fokalisierung), Spannungsaufbau, Dialog (Action Beats, Subtext), Stilmittel, Clustern
 - [[Abschnitte/Ueberarbeitung|Überarbeitung]]: Überarbeitungsphasen, Selbstlektorat, Szenenliste-Diagnose, Sandersons Draft-System, Continuity-Check, Sensitivity Reading, Beta-Leser, Feedback sortieren
 
