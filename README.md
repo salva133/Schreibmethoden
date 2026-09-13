@@ -1,41 +1,41 @@
-# Schreibmethoden
+# Writing Methods
 
-Bewährte Techniken, Strukturen und Strategien für das Schreiben, gesammelt, geordnet und zu einem eigenen, anwendbaren Maßstab verdichtet. Dieses Verzeichnis ist der zentrale Maßstab für Schreibstil und Formulierungsqualität im gesamten `Schreiben`-Repository und gilt für alle Texte (NRPG-Stories, Lore-Einträge, Prosa) unabhängig von Welt oder System.
+Proven techniques, structures and strategies for writing, collected, ordered and condensed into one applicable standard of my own. This directory is the central standard for writing style and phrasing quality across the entire `Schreiben` repository and applies to every text (NRPG stories, lore entries, prose), whatever the world or system.
 
-Das Repository ist als Obsidian-Vault angelegt; interne Verweise nutzen Wikilinks (`[[…]]`).
+The repository is set up as an Obsidian vault; internal references use wikilinks (`[[…]]`).
 
-## Struktur
+## Structure
 
-Einstiegspunkt ist die Map of Content [`Schreibmethoden.md`](Schreibmethoden.md). Die Einzelabschnitte liegen in `Abschnitte/`:
+The entry point is the map of content [`WritingMethods.md`](WritingMethods.md). The individual sections live in `Sections/`:
 
-| Datei | Zweck |
+| File | Purpose |
 | --- | --- |
-| [`Abschnitte/Stilregeln.md`](Abschnitte/Stilregeln.md) | **Primärmaßstab.** Geltungsbereich, verbotene Muster, Anti-KI-Prosa, Auszeichnung und Gliederung, Adverbien, Filterwörter, Schwächungs-Verben, Tautologien, positive Vorgaben, Perspektivtreue, Dialog mit Tiefe, Körper und Geste, Autorenstimme (Stilprofil aus eigenen Texten), Selbstprüfung. |
-| [`Abschnitte/Schreibtechniken.md`](Abschnitte/Schreibtechniken.md) | Show Don't Tell, sensorisches Schreiben, In Medias Res, POV und Fokalisierung, Spannungsaufbau, Dialog, Stilmittel, Clustern. |
-| [`Abschnitte/Charaktere.md`](Abschnitte/Charaktere.md) | Protagonist, Ghost, Wollen/Brauchen, Antagonist, Charakterbogen-Typen, Charakter-Voice, Foil-Charaktere, Backstory drip-feeding. |
-| [`Abschnitte/Plotstrukturen.md`](Abschnitte/Plotstrukturen.md) | Heldenreise, Drei-Akt-Struktur mit Pinch Points, Midpoint, Try-Fail-Cycles, Subplots, Setup & Payoff, Schneeflockenmethode, W-Fragen-Modell. |
-| [`Abschnitte/Ueberarbeitung.md`](Abschnitte/Ueberarbeitung.md) | Überarbeitungsphasen, Selbstlektorat, Szenenliste-Diagnose, Sandersons Draft-System, Continuity-Check, Beta-Leser, Feedback sortieren. |
-| [`Abschnitte/Produktivitaet.md`](Abschnitte/Produktivitaet.md) | Freewriting, Pomodoro, Kings Tagesroutine, Schreibziele, Schreibblockaden, Hemingway-Stop, Schreib-Tracker, Diktieren. |
-| [`Abschnitte/Autorenratschlaege.md`](Abschnitte/Autorenratschlaege.md) | Ratschläge von King, Hemingway, Tschechow, Orwell, Faulkner, Leonard, Vonnegut, Sanderson, Le Guin, Bradbury, Freytag. |
-| [`Abschnitte/Referenzierungsregel.md`](Abschnitte/Referenzierungsregel.md) | Wikilink-Richtung: Kapitel → Bezugsobjekt, nicht umgekehrt. |
+| [`Sections/StyleRules.md`](Sections/StyleRules.md) | **Primary standard.** Scope, forbidden patterns, anti-AI prose, markup and structure, adverbs, filter words, weakening verbs, tautologies, positive requirements, fidelity to perspective, dialogue with depth, body and gesture, author voice (style profile drawn from the author's own texts), self-check. |
+| [`Sections/WritingTechniques.md`](Sections/WritingTechniques.md) | Show don't tell, sensory writing, in medias res, POV and focalization, building tension, dialogue, figures of speech, clustering. |
+| [`Sections/Characters.md`](Sections/Characters.md) | Protagonist, ghost, want vs. need, antagonist, character-arc types, character voice, foil characters, backstory drip-feeding. |
+| [`Sections/PlotStructures.md`](Sections/PlotStructures.md) | Hero's journey, three-act structure with pinch points, midpoint, try-fail cycles, subplots, setup & payoff, snowflake method, W-question model. |
+| [`Sections/Revision.md`](Sections/Revision.md) | Revision phases, self-editing, scene-list diagnosis, Sanderson's draft system, continuity check, beta readers, sorting feedback. |
+| [`Sections/Productivity.md`](Sections/Productivity.md) | Freewriting, pomodoro, King's daily routine, writing goals, writer's block, Hemingway stop, writing tracker, dictation. |
+| [`Sections/AuthorAdvice.md`](Sections/AuthorAdvice.md) | Advice from King, Hemingway, Chekhov, Orwell, Faulkner, Leonard, Vonnegut, Sanderson, Le Guin, Bradbury, Freytag. |
+| [`Sections/ReferencingRule.md`](Sections/ReferencingRule.md) | Wikilink direction: chapter → referenced object, not the other way round. |
 
-## Anwendung
+## Use
 
-Vor jedem Lektorat oder jeder Textproduktion gilt: `Stilregeln.md` ist gelesen oder bekannt. Sie ist kein Stil-Vorschlag, sondern eine Verbotsliste gegen die statistischen Standardmuster von KI-Prosa. Ihr Geltungsbereich reicht über die Prosa hinaus und schließt Notizen, Kommentare, Commit-Nachrichten und Antworten im Gespräch ein; ausgenommen ist allein die Form von Nachschlagewerken und Regelkatalogen. Bei Charakterarbeit ist `Charaktere.md` zu lesen, bevor Charakterblätter angelegt oder beurteilt werden; bei Struktur-Fragen ist `Plotstrukturen.md` die erste Anlaufstelle.
+Before any editing pass and before any text is produced: `StyleRules.md` has been read or is known. It is not a style suggestion but a list of prohibitions against the statistical default patterns of AI prose. Its scope reaches beyond prose and takes in notes, comments, commit messages and answers in conversation; the only exemption is the form of reference works and rule catalogs. For character work, `Characters.md` is to be read before character sheets are created or judged; for questions of structure, `PlotStructures.md` is the first place to look.
 
-Priorität bei Konflikt: `Stilregeln.md` > `Charaktere.md` / `Schreibtechniken.md` > alle anderen Dateien. Die Stilregeln sind die härteste Constraint.
+Priority in case of conflict: `StyleRules.md` > `Characters.md` / `WritingTechniques.md` > all other files. The style rules are the hardest constraint.
 
-## Lizenz und Zitierung
+## License and citation
 
-Dieses Werk steht unter der [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0). Der vollständige Lizenztext liegt in [`LICENSE`](LICENSE).
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license (CC BY-SA 4.0). The full license text is in [`LICENSE`](LICENSE).
 
-Die Lizenz ist bewusst so gewählt, dass beide Seiten abgedeckt sind:
+The license is chosen deliberately so that both sides are covered:
 
-- **Nutzung und Zitierung fremder Methoden.** Die hier referenzierten Schreibtechniken und Ratschläge Dritter sind Ideen und Verfahren und damit nicht urheberrechtlich geschützt. Ihre Erwähnung, Paraphrase und Anwendung ist ohnehin frei. Wo einzelne Methoden namentlich zugeordnet sind (King, Hemingway, Sanderson u. a.), bleibt diese Zuschreibung als gute fachliche Praxis erhalten.
-- **Eigene Weiterentwicklungen.** Die eigene sprachliche Ausgestaltung, Auswahl, Anordnung und Synthese in diesem Repository ist das geschützte Werk. CC BY-SA 4.0 erlaubt Weitergabe und Bearbeitung unter zwei Bedingungen: Namensnennung (BY) und Weitergabe abgeleiteter Werke unter derselben Lizenz (SA, Copyleft). So bleiben auch Ableitungen offen und auf den Urheber zurückführbar.
+- **Use and citation of other people's methods.** The writing techniques and third-party advice referenced here are ideas and procedures and therefore not protected by copyright. Mentioning, paraphrasing and applying them is free in any case. Where individual methods are attributed by name (King, Hemingway, Sanderson and others), that attribution stands as good scholarly practice.
+- **The author's own development of the material.** The wording, selection, arrangement and synthesis in this repository are the protected work. CC BY-SA 4.0 permits redistribution and adaptation under two conditions: attribution (BY) and distribution of derivative works under the same license (SA, copyleft). That keeps derivatives open as well and traceable back to the author.
 
-Empfohlene Zitierweise:
+Recommended citation:
 
-> Mark: *Schreibmethoden.* Lizenziert unter CC BY-SA 4.0. https://creativecommons.org/licenses/by-sa/4.0/
+> Mark: *Writing Methods.* Licensed under CC BY-SA 4.0. https://creativecommons.org/licenses/by-sa/4.0/
 
-Bei Bearbeitungen ist anzugeben, dass und wie das Material verändert wurde, und das Ergebnis ist wiederum unter CC BY-SA 4.0 (oder einer kompatiblen Lizenz) weiterzugeben.
+Adaptations must state that and how the material was changed, and the result is to be passed on under CC BY-SA 4.0 (or a compatible license) in turn.

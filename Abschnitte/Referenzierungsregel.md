@@ -1,1 +1,0 @@
-- Wikilinks dürfen nur vom Kapitel ausgehend auf das Bezugsobjekt zeigen, aber Bezugsobjekte wie Charaktere, Lore-Einträge oder Storyinterne Referenzen dürfen in sich auf Kapitel verweisen.
