@@ -66,6 +66,8 @@ Fehlt nach dem Streichen wirklich eine Information, gehört sie in einen eigenen
 
 **Keine Abstraktion, wo Konkretes geht.** „Sie warf die Tasse gegen die Wand" statt „Es kam zu emotionalen Spannungen". Aktive Verben statt nominalisierter Wendungen. „Sie entschied" statt „Es kam zu einer Entscheidung".
 
+**Keine Nichtereignisse.** Berichtet wird, was geschehen ist, und nicht, was ausgeblieben ist. Dass niemand sich geäußert hat, dass eine Begründung fehlt, dass etwas nicht bestätigt oder nicht mitgeteilt wurde: Das sind keine Vorgänge, sondern Löcher, die der Satz mit Grammatik füllt. „Aus Brüssel liegt bis Redaktionsschluss keine Erklärung vor" trägt nichts. Entweder steht dort, was Brüssel getan hat, oder die Zeile fällt weg. Verboten ist ebenso das Ereignis in verneinter Form: „Die Stadt ist nicht gefallen" → „Die Stadt wird gehalten", „Er hat nicht geantwortet" → „Er schwieg". Erlaubt bleibt der Weltzustand, der eine Tatsache benennt, etwa „das Land unterhält keine Streitkräfte" oder „es gab keinen Einschlag", und die Anweisung, etwas zu unterlassen. Der Unterschied lässt sich prüfen: Ein Weltzustand ließe sich fotografieren, ein Nichtereignis nicht.
+
 **Adverbien sparsam.** „-lich"-Verstärker („leise", „langsam", „vorsichtig") prüfen, ob das Verb sie schon enthält. „Sie flüsterte leise" ist redundant. Wenn das Adverb das Verb verändert, behalten. Wenn es es bloß wiederholt, streichen. Stephen King: „Der Weg zur Hölle ist mit Adverbien gepflastert."
 
 **Ein Adjektiv, nicht zwei.** „Dunkel und grüblerisch", „laut und dreist", „schnell und wendig": Zwei Wörter aus demselben Feld addieren sich nicht, sie verwässern einander. Das stärkere bleibt stehen, das andere fällt. Ein Paar ist nur dann richtig, wenn die beiden in verschiedene Richtungen zeigen und der Widerspruch die Sache ausmacht, etwa „höflich und kalt".
@@ -377,5 +379,7 @@ Laut lesen. Klingt ein Satz nach Pressemitteilung oder nach Klappentext, wird er
 Die Streichprobe. Nimm den Satz weg und lies den Absatz noch einmal. Fehlt danach eine Information, war der Satz nötig. Klingt der Absatz nur nüchterner, war er Dekoration, und er kommt nicht in überarbeiteter Form zurück (vgl. „Ersatzlos streichen").
 
 Die Doppelung suchen. Steht derselbe Gedanke zweimal in verschiedenen Worten, bleibt die bessere Fassung stehen und die andere fällt. Das gilt für den Absatz, für den Dialog und für den Text als Ganzes.
+
+Die Nichtereignisse zählen. Suche „liegt keine … vor", „hat sich nicht geäußert", „ohne Begründung", „ist nicht mitgeteilt worden", „nicht bekannt", „bis Redaktionsschluss". Jeder Treffer ist ein Satz, der eine Lücke als Inhalt ausgibt, und er wird gestrichen.
 
 Ersten und letzten Satz prüfen. Ist der erste ein Rundumblick auf die Weltlage, ein Räuspern oder die zurückgegebene Frage, wird er gestrichen, und der zweite ist der erste. Ist der letzte ein Fazit, eine Stimmungszeile oder ein Ausblick, kommt er weg; der Text endet auf der letzten Sachinformation.
