@@ -57,11 +57,9 @@ Six rules for clear writing:
 
 ## William Faulkner
 
-In creative work the first job is to fasten the reader to the story. The second is to keep him there.
-
 > "Kill your darlings."
 
-*Source: William Faulkner, lecture and interview material; the "kill your darlings" line is alternatively attributed to Arthur Quiller-Couch. The first sentence above renders his position, not his wording.*
+*Source: William Faulkner, lecture and interview material; the "kill your darlings" line is alternatively attributed to Arthur Quiller-Couch.*
 
 ---
 
@@ -120,7 +118,7 @@ Le Guin writes about craft like a poet who happens to produce novels. *Steering 
 
 Core topics:
 
-**Sound.** Sentences have rhythm whether the author wants them to or not. The story is what the language does, not what it says. Anyone who cannot hear how his prose sounds is writing deaf. Reading aloud is an obligation, not a tip.
+**Sound.** Sentences have rhythm whether the author wants them to or not. Anyone who cannot hear how his prose sounds is writing deaf. Reading aloud is an obligation, not a tip.
 
 **Mix sentence lengths.** Long sentences carry a thought. Short ones land. A run of sentences of equal length is dead, however fine each one is on its own.
 
@@ -133,8 +131,6 @@ Core topics:
 ---
 
 ## Ray Bradbury
-
-Write fast, write hot; revise slowly, revise cold. The first version comes from the heart, the revision from the head, and the first step in writing is not thinking but feeling.
 
 > "You must stay drunk on writing so reality cannot destroy you."
 
