@@ -1,0 +1,1 @@
+- Wikilinks may only point from the chapter to the referenced object, but referenced objects such as characters, lore entries or in-story references may link to chapters within themselves.
